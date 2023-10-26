@@ -1,0 +1,7553 @@
+{
+  "Status": 3,
+  "CreatedDateTime": "2023-02-05T07:56:06Z",
+  "LastUpdatedDateTime": "2023-02-05T07:56:07Z",
+  "AnalyzeResult": {
+    "Version": "3.2.0",
+    "ModelVersion": "2022-04-30",
+    "ReadResults": [
+      {
+        "Page": 1,
+        "Language": null,
+        "Angle": -0.9669,
+        "Width": 960,
+        "Height": 1707,
+        "Unit": 0,
+        "Lines": [
+          {
+            "Language": null,
+            "BoundingBox": [
+              288,
+              325,
+              390,
+              311,
+              393,
+              342,
+              291,
+              355
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "SEIYU",
+            "Words": [
+              {
+                "BoundingBox": [
+                  289,
+                  325,
+                  381,
+                  313,
+                  384,
+                  344,
+                  291,
+                  355
+                ],
+                "Text": "SEIYU",
+                "Confidence": 0.994
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              195,
+              380,
+              313,
+              378,
+              314,
+              403,
+              195,
+              405
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u897F\u53CB\u9577\u91CE\u5317\u5E97",
+            "Words": [
+              {
+                "BoundingBox": [
+                  196,
+                  383,
+                  209,
+                  383,
+                  209,
+                  403,
+                  196,
+                  402
+                ],
+                "Text": "\u897F",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  219,
+                  383,
+                  231,
+                  383,
+                  232,
+                  404,
+                  219,
+                  404
+                ],
+                "Text": "\u53CB",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  239,
+                  383,
+                  251,
+                  383,
+                  252,
+                  405,
+                  239,
+                  405
+                ],
+                "Text": "\u9577",
+                "Confidence": 0.989
+              },
+              {
+                "BoundingBox": [
+                  258,
+                  383,
+                  271,
+                  382,
+                  273,
+                  405,
+                  260,
+                  405
+                ],
+                "Text": "\u91CE",
+                "Confidence": 0.993
+              },
+              {
+                "BoundingBox": [
+                  273,
+                  382,
+                  286,
+                  381,
+                  287,
+                  404,
+                  274,
+                  405
+                ],
+                "Text": "\u5317",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  298,
+                  380,
+                  311,
+                  378,
+                  313,
+                  402,
+                  300,
+                  403
+                ],
+                "Text": "\u5E97",
+                "Confidence": 0.997
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              194,
+              399,
+              377,
+              397,
+              378,
+              422,
+              195,
+              424
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u96FB\u8A71 026-263-8815",
+            "Words": [
+              {
+                "BoundingBox": [
+                  198,
+                  401,
+                  210,
+                  402,
+                  211,
+                  421,
+                  200,
+                  420
+                ],
+                "Text": "\u96FB",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  220,
+                  403,
+                  234,
+                  403,
+                  235,
+                  423,
+                  221,
+                  422
+                ],
+                "Text": "\u8A71",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  254,
+                  404,
+                  373,
+                  398,
+                  373,
+                  419,
+                  255,
+                  424
+                ],
+                "Text": "026-263-8815",
+                "Confidence": 0.974
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              309,
+              426,
+              409,
+              417,
+              412,
+              440,
+              310,
+              449
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u3010\u9818\u53CE\u8A3C\u3011",
+            "Words": [
+              {
+                "BoundingBox": [
+                  309,
+                  426,
+                  318,
+                  426,
+                  318,
+                  449,
+                  310,
+                  450
+                ],
+                "Text": "\u3010",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  331,
+                  424,
+                  348,
+                  423,
+                  349,
+                  446,
+                  332,
+                  448
+                ],
+                "Text": "\u9818",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  352,
+                  423,
+                  366,
+                  421,
+                  367,
+                  444,
+                  354,
+                  446
+                ],
+                "Text": "\u53CE",
+                "Confidence": 0.992
+              },
+              {
+                "BoundingBox": [
+                  374,
+                  421,
+                  387,
+                  420,
+                  389,
+                  443,
+                  375,
+                  444
+                ],
+                "Text": "\u8A3C",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  395,
+                  419,
+                  409,
+                  418,
+                  410,
+                  441,
+                  396,
+                  442
+                ],
+                "Text": "\u3011",
+                "Confidence": 0.997
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              204,
+              438,
+              450,
+              438,
+              449,
+              468,
+              204,
+              466
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "2023\u5E74 1\u670823\u65E5(\u6708) 19:44",
+            "Words": [
+              {
+                "BoundingBox": [
+                  206,
+                  438,
+                  243,
+                  443,
+                  242,
+                  462,
+                  204,
+                  457
+                ],
+                "Text": "2023",
+                "Confidence": 0.992
+              },
+              {
+                "BoundingBox": [
+                  250,
+                  443,
+                  262,
+                  444,
+                  261,
+                  464,
+                  249,
+                  463
+                ],
+                "Text": "\u5E74",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  272,
+                  445,
+                  284,
+                  446,
+                  283,
+                  466,
+                  271,
+                  465
+                ],
+                "Text": "1",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  288,
+                  446,
+                  300,
+                  446,
+                  299,
+                  467,
+                  287,
+                  466
+                ],
+                "Text": "\u6708",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  302,
+                  446,
+                  322,
+                  447,
+                  322,
+                  468,
+                  301,
+                  467
+                ],
+                "Text": "23",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  326,
+                  447,
+                  339,
+                  447,
+                  338,
+                  468,
+                  326,
+                  468
+                ],
+                "Text": "\u65E5",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  351,
+                  446,
+                  363,
+                  446,
+                  363,
+                  468,
+                  350,
+                  468
+                ],
+                "Text": "(",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  367,
+                  446,
+                  378,
+                  445,
+                  378,
+                  467,
+                  367,
+                  467
+                ],
+                "Text": "\u6708",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  378,
+                  445,
+                  390,
+                  445,
+                  390,
+                  466,
+                  378,
+                  467
+                ],
+                "Text": ")",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  400,
+                  444,
+                  448,
+                  439,
+                  449,
+                  461,
+                  400,
+                  466
+                ],
+                "Text": "19:44",
+                "Confidence": 0.995
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              218,
+              456,
+              514,
+              455,
+              514,
+              487,
+              218,
+              488
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u5E97:03449 \u30EC\u30B8:28 \u53D6\u5F15No:008025",
+            "Words": [
+              {
+                "BoundingBox": [
+                  221,
+                  460,
+                  233,
+                  461,
+                  232,
+                  479,
+                  219,
+                  477
+                ],
+                "Text": "\u5E97",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  235,
+                  461,
+                  297,
+                  466,
+                  296,
+                  486,
+                  233,
+                  479
+                ],
+                "Text": ":03449",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  312,
+                  466,
+                  325,
+                  467,
+                  324,
+                  487,
+                  312,
+                  487
+                ],
+                "Text": "\u30EC",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  326,
+                  467,
+                  339,
+                  467,
+                  338,
+                  488,
+                  326,
+                  487
+                ],
+                "Text": "\u30B8",
+                "Confidence": 0.98
+              },
+              {
+                "BoundingBox": [
+                  343,
+                  467,
+                  375,
+                  467,
+                  375,
+                  488,
+                  343,
+                  488
+                ],
+                "Text": ":28",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  385,
+                  467,
+                  397,
+                  466,
+                  397,
+                  488,
+                  385,
+                  488
+                ],
+                "Text": "\u53D6",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  404,
+                  466,
+                  417,
+                  465,
+                  417,
+                  488,
+                  404,
+                  488
+                ],
+                "Text": "\u5F15",
+                "Confidence": 0.972
+              },
+              {
+                "BoundingBox": [
+                  421,
+                  465,
+                  511,
+                  456,
+                  512,
+                  480,
+                  421,
+                  487
+                ],
+                "Text": "No:008025",
+                "Confidence": 0.336
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              219,
+              479,
+              324,
+              486,
+              323,
+              505,
+              218,
+              497
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u62C5\u5F53:00293",
+            "Words": [
+              {
+                "BoundingBox": [
+                  221,
+                  479,
+                  234,
+                  480,
+                  232,
+                  499,
+                  219,
+                  498
+                ],
+                "Text": "\u62C5",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  247,
+                  482,
+                  258,
+                  482,
+                  256,
+                  501,
+                  245,
+                  500
+                ],
+                "Text": "\u5F53",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  262,
+                  483,
+                  320,
+                  487,
+                  319,
+                  505,
+                  260,
+                  501
+                ],
+                "Text": ":00293",
+                "Confidence": 0.995
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              215,
+              498,
+              369,
+              509,
+              368,
+              528,
+              214,
+              517
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u203B90 MO\u30DF\u30BF\u30E9\u30B7\u30C0\u30F3\u30B4",
+            "Words": [
+              {
+                "BoundingBox": [
+                  216,
+                  498,
+                  254,
+                  501,
+                  253,
+                  520,
+                  215,
+                  516
+                ],
+                "Text": "\u203B90",
+                "Confidence": 0.961
+              },
+              {
+                "BoundingBox": [
+                  263,
+                  502,
+                  284,
+                  504,
+                  283,
+                  522,
+                  261,
+                  521
+                ],
+                "Text": "MO",
+                "Confidence": 0.964
+              },
+              {
+                "BoundingBox": [
+                  285,
+                  504,
+                  296,
+                  505,
+                  294,
+                  523,
+                  283,
+                  522
+                ],
+                "Text": "\u30DF",
+                "Confidence": 0.991
+              },
+              {
+                "BoundingBox": [
+                  297,
+                  505,
+                  304,
+                  505,
+                  302,
+                  524,
+                  295,
+                  523
+                ],
+                "Text": "\u30BF",
+                "Confidence": 0.982
+              },
+              {
+                "BoundingBox": [
+                  304,
+                  505,
+                  316,
+                  506,
+                  314,
+                  525,
+                  302,
+                  524
+                ],
+                "Text": "\u30E9",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  316,
+                  506,
+                  326,
+                  507,
+                  324,
+                  525,
+                  315,
+                  525
+                ],
+                "Text": "\u30B7",
+                "Confidence": 0.932
+              },
+              {
+                "BoundingBox": [
+                  326,
+                  507,
+                  337,
+                  507,
+                  335,
+                  526,
+                  324,
+                  525
+                ],
+                "Text": "\u30C0",
+                "Confidence": 0.968
+              },
+              {
+                "BoundingBox": [
+                  343,
+                  508,
+                  354,
+                  508,
+                  352,
+                  527,
+                  341,
+                  526
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.695
+              },
+              {
+                "BoundingBox": [
+                  355,
+                  509,
+                  366,
+                  509,
+                  364,
+                  527,
+                  353,
+                  527
+                ],
+                "Text": "\u30B4",
+                "Confidence": 0.583
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              219,
+              517,
+              311,
+              526,
+              309,
+              544,
+              218,
+              534
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u203B69 \u30C8\u30EA\u30CB\u30AF",
+            "Words": [
+              {
+                "BoundingBox": [
+                  220,
+                  518,
+                  259,
+                  521,
+                  258,
+                  539,
+                  219,
+                  535
+                ],
+                "Text": "\u203B69",
+                "Confidence": 0.959
+              },
+              {
+                "BoundingBox": [
+                  267,
+                  522,
+                  279,
+                  523,
+                  278,
+                  541,
+                  266,
+                  540
+                ],
+                "Text": "\u30C8",
+                "Confidence": 0.993
+              },
+              {
+                "BoundingBox": [
+                  279,
+                  523,
+                  290,
+                  525,
+                  288,
+                  543,
+                  278,
+                  542
+                ],
+                "Text": "\u30EA",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  291,
+                  525,
+                  300,
+                  526,
+                  299,
+                  544,
+                  290,
+                  543
+                ],
+                "Text": "\u30CB",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  300,
+                  526,
+                  311,
+                  527,
+                  309,
+                  545,
+                  299,
+                  544
+                ],
+                "Text": "\u30AF",
+                "Confidence": 0.995
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              485,
+              508,
+              525,
+              505,
+              527,
+              524,
+              486,
+              526
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A595C",
+            "Words": [
+              {
+                "BoundingBox": [
+                  485,
+                  507,
+                  525,
+                  505,
+                  526,
+                  523,
+                  486,
+                  526
+                ],
+                "Text": "\u00A595C",
+                "Confidence": 0.966
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              224,
+              536,
+              383,
+              552,
+              382,
+              570,
+              223,
+              553
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u203B91 \u30AB\u30EF\u30CA\u30AB\u30B8\u30DE\u30CA\u30C3\u30C8\u30A6",
+            "Words": [
+              {
+                "BoundingBox": [
+                  225,
+                  536,
+                  264,
+                  540,
+                  263,
+                  559,
+                  224,
+                  554
+                ],
+                "Text": "\u203B91",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  272,
+                  541,
+                  284,
+                  542,
+                  283,
+                  561,
+                  271,
+                  559
+                ],
+                "Text": "\u30AB",
+                "Confidence": 0.982
+              },
+              {
+                "BoundingBox": [
+                  284,
+                  542,
+                  293,
+                  543,
+                  292,
+                  562,
+                  283,
+                  561
+                ],
+                "Text": "\u30EF",
+                "Confidence": 0.371
+              },
+              {
+                "BoundingBox": [
+                  294,
+                  543,
+                  303,
+                  544,
+                  302,
+                  563,
+                  293,
+                  562
+                ],
+                "Text": "\u30CA",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  303,
+                  544,
+                  312,
+                  545,
+                  312,
+                  564,
+                  302,
+                  563
+                ],
+                "Text": "\u30AB",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  313,
+                  545,
+                  323,
+                  546,
+                  323,
+                  565,
+                  312,
+                  564
+                ],
+                "Text": "\u30B8",
+                "Confidence": 0.993
+              },
+              {
+                "BoundingBox": [
+                  332,
+                  547,
+                  342,
+                  549,
+                  342,
+                  567,
+                  331,
+                  566
+                ],
+                "Text": "\u30DE",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  343,
+                  549,
+                  353,
+                  550,
+                  352,
+                  568,
+                  343,
+                  567
+                ],
+                "Text": "\u30CA",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  353,
+                  550,
+                  362,
+                  551,
+                  362,
+                  569,
+                  352,
+                  568
+                ],
+                "Text": "\u30C3",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  362,
+                  551,
+                  369,
+                  551,
+                  369,
+                  569,
+                  362,
+                  569
+                ],
+                "Text": "\u30C8",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  370,
+                  551,
+                  380,
+                  553,
+                  380,
+                  570,
+                  369,
+                  569
+                ],
+                "Text": "\u30A6",
+                "Confidence": 0.954
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              478,
+              534,
+              528,
+              530,
+              529,
+              548,
+              480,
+              551
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A5525C",
+            "Words": [
+              {
+                "BoundingBox": [
+                  478,
+                  533,
+                  525,
+                  530,
+                  526,
+                  548,
+                  479,
+                  551
+                ],
+                "Text": "\u00A5525C",
+                "Confidence": 0.986
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              317,
+              565,
+              382,
+              572,
+              380,
+              589,
+              316,
+              581
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A598 x",
+            "Words": [
+              {
+                "BoundingBox": [
+                  327,
+                  567,
+                  356,
+                  570,
+                  354,
+                  586,
+                  326,
+                  582
+                ],
+                "Text": "\u00A598",
+                "Confidence": 0.979
+              },
+              {
+                "BoundingBox": [
+                  366,
+                  571,
+                  375,
+                  572,
+                  373,
+                  588,
+                  364,
+                  587
+                ],
+                "Text": "x",
+                "Confidence": 0.667
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              233,
+              572,
+              373,
+              590,
+              371,
+              607,
+              232,
+              590
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.945
+              }
+            },
+            "Text": "\u203B90 \u30B7\u30E7\u30AF\u30D1\u30F3\u30E0\u30DE\u30A4",
+            "Words": [
+              {
+                "BoundingBox": [
+                  235,
+                  573,
+                  273,
+                  578,
+                  272,
+                  595,
+                  234,
+                  591
+                ],
+                "Text": "\u203B90",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  280,
+                  578,
+                  291,
+                  580,
+                  290,
+                  597,
+                  278,
+                  596
+                ],
+                "Text": "\u30B7",
+                "Confidence": 0.989
+              },
+              {
+                "BoundingBox": [
+                  293,
+                  580,
+                  304,
+                  581,
+                  302,
+                  598,
+                  292,
+                  597
+                ],
+                "Text": "\u30E7",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  304,
+                  581,
+                  313,
+                  583,
+                  311,
+                  599,
+                  303,
+                  598
+                ],
+                "Text": "\u30AF",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  313,
+                  583,
+                  325,
+                  584,
+                  323,
+                  601,
+                  311,
+                  599
+                ],
+                "Text": "\u30D1",
+                "Confidence": 0.988
+              },
+              {
+                "BoundingBox": [
+                  331,
+                  585,
+                  342,
+                  586,
+                  340,
+                  603,
+                  329,
+                  602
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.929
+              },
+              {
+                "BoundingBox": [
+                  342,
+                  586,
+                  351,
+                  588,
+                  349,
+                  604,
+                  340,
+                  603
+                ],
+                "Text": "\u30E0",
+                "Confidence": 0.416
+              },
+              {
+                "BoundingBox": [
+                  351,
+                  588,
+                  362,
+                  589,
+                  360,
+                  606,
+                  349,
+                  604
+                ],
+                "Text": "\u30DE",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  362,
+                  589,
+                  372,
+                  590,
+                  370,
+                  607,
+                  360,
+                  606
+                ],
+                "Text": "\u30A4",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              405,
+              572,
+              418,
+              573,
+              417,
+              587,
+              404,
+              586
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "handwriting",
+                "Confidence": 1
+              }
+            },
+            "Text": "2",
+            "Words": [
+              {
+                "BoundingBox": [
+                  409,
+                  572,
+                  416,
+                  573,
+                  415,
+                  587,
+                  408,
+                  586
+                ],
+                "Text": "2",
+                "Confidence": 0.991
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              238,
+              590,
+              343,
+              604,
+              340,
+              621,
+              237,
+              606
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u203B94 \u30C8\u30AF\u30CE\u30A6\u30AB",
+            "Words": [
+              {
+                "BoundingBox": [
+                  239,
+                  590,
+                  283,
+                  596,
+                  281,
+                  613,
+                  237,
+                  607
+                ],
+                "Text": "\u203B94",
+                "Confidence": 0.893
+              },
+              {
+                "BoundingBox": [
+                  290,
+                  597,
+                  299,
+                  599,
+                  297,
+                  615,
+                  288,
+                  613
+                ],
+                "Text": "\u30C8",
+                "Confidence": 0.987
+              },
+              {
+                "BoundingBox": [
+                  303,
+                  599,
+                  312,
+                  601,
+                  310,
+                  616,
+                  301,
+                  615
+                ],
+                "Text": "\u30AF",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  313,
+                  601,
+                  321,
+                  602,
+                  319,
+                  618,
+                  311,
+                  617
+                ],
+                "Text": "\u30CE",
+                "Confidence": 0.972
+              },
+              {
+                "BoundingBox": [
+                  322,
+                  602,
+                  330,
+                  603,
+                  328,
+                  619,
+                  320,
+                  618
+                ],
+                "Text": "\u30A6",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  330,
+                  603,
+                  340,
+                  604,
+                  337,
+                  620,
+                  328,
+                  619
+                ],
+                "Text": "\u30AB",
+                "Confidence": 0.992
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              485,
+              576,
+              532,
+              576,
+              532,
+              593,
+              485,
+              592
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A5196C",
+            "Words": [
+              {
+                "BoundingBox": [
+                  486,
+                  576,
+                  530,
+                  576,
+                  530,
+                  593,
+                  485,
+                  592
+                ],
+                "Text": "\u00A5196C",
+                "Confidence": 0.99
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              245,
+              608,
+              415,
+              624,
+              413,
+              644,
+              243,
+              629
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u203B90 \u30B7\u30BD\u30B7\u30E5\u30A6\u30A6\u30DE\u30EC6\u30B3\u30A4\u30EA",
+            "Words": [
+              {
+                "BoundingBox": [
+                  246,
+                  609,
+                  285,
+                  615,
+                  283,
+                  633,
+                  244,
+                  626
+                ],
+                "Text": "\u203B90",
+                "Confidence": 0.776
+              },
+              {
+                "BoundingBox": [
+                  295,
+                  616,
+                  306,
+                  617,
+                  304,
+                  635,
+                  294,
+                  634
+                ],
+                "Text": "\u30B7",
+                "Confidence": 0.691
+              },
+              {
+                "BoundingBox": [
+                  307,
+                  618,
+                  316,
+                  619,
+                  315,
+                  637,
+                  306,
+                  636
+                ],
+                "Text": "\u30BD",
+                "Confidence": 0.564
+              },
+              {
+                "BoundingBox": [
+                  317,
+                  619,
+                  326,
+                  620,
+                  324,
+                  638,
+                  315,
+                  637
+                ],
+                "Text": "\u30B7",
+                "Confidence": 0.937
+              },
+              {
+                "BoundingBox": [
+                  326,
+                  620,
+                  335,
+                  620,
+                  334,
+                  639,
+                  325,
+                  638
+                ],
+                "Text": "\u30E5",
+                "Confidence": 0.942
+              },
+              {
+                "BoundingBox": [
+                  336,
+                  621,
+                  345,
+                  621,
+                  343,
+                  640,
+                  334,
+                  639
+                ],
+                "Text": "\u30A6",
+                "Confidence": 0.825
+              },
+              {
+                "BoundingBox": [
+                  345,
+                  621,
+                  354,
+                  622,
+                  353,
+                  640,
+                  344,
+                  640
+                ],
+                "Text": "\u30A6",
+                "Confidence": 0.925
+              },
+              {
+                "BoundingBox": [
+                  355,
+                  622,
+                  361,
+                  622,
+                  360,
+                  641,
+                  353,
+                  640
+                ],
+                "Text": "\u30DE",
+                "Confidence": 0.994
+              },
+              {
+                "BoundingBox": [
+                  362,
+                  623,
+                  372,
+                  623,
+                  371,
+                  642,
+                  360,
+                  641
+                ],
+                "Text": "\u30EC",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  374,
+                  623,
+                  383,
+                  624,
+                  381,
+                  642,
+                  372,
+                  642
+                ],
+                "Text": "6",
+                "Confidence": 0.987
+              },
+              {
+                "BoundingBox": [
+                  383,
+                  624,
+                  394,
+                  624,
+                  393,
+                  643,
+                  382,
+                  642
+                ],
+                "Text": "\u30B3",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  395,
+                  624,
+                  402,
+                  624,
+                  401,
+                  643,
+                  394,
+                  643
+                ],
+                "Text": "\u30A4",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  402,
+                  624,
+                  413,
+                  624,
+                  412,
+                  643,
+                  401,
+                  643
+                ],
+                "Text": "\u30EA",
+                "Confidence": 0.949
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              494,
+              597,
+              534,
+              597,
+              534,
+              612,
+              494,
+              611
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "handwriting",
+                "Confidence": 0.468
+              }
+            },
+            "Text": "\u00A5220C",
+            "Words": [
+              {
+                "BoundingBox": [
+                  494,
+                  597,
+                  533,
+                  597,
+                  533,
+                  612,
+                  494,
+                  611
+                ],
+                "Text": "\u00A5220C",
+                "Confidence": 0.928
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              251,
+              628,
+              413,
+              642,
+              412,
+              662,
+              250,
+              649
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.901
+              }
+            },
+            "Text": "\u203B91 \u52A0\u30A4\u30B5\u30EF\u30D9\u30FC\u30B3\u30F3",
+            "Words": [
+              {
+                "BoundingBox": [
+                  251,
+                  629,
+                  293,
+                  634,
+                  293,
+                  653,
+                  251,
+                  650
+                ],
+                "Text": "\u203B91",
+                "Confidence": 0.987
+              },
+              {
+                "BoundingBox": [
+                  302,
+                  635,
+                  313,
+                  636,
+                  313,
+                  655,
+                  301,
+                  654
+                ],
+                "Text": "\u52A0",
+                "Confidence": 0.943
+              },
+              {
+                "BoundingBox": [
+                  324,
+                  637,
+                  329,
+                  638,
+                  329,
+                  656,
+                  324,
+                  656
+                ],
+                "Text": "\u30A4",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  329,
+                  638,
+                  346,
+                  639,
+                  345,
+                  657,
+                  329,
+                  656
+                ],
+                "Text": "\u30B5",
+                "Confidence": 0.757
+              },
+              {
+                "BoundingBox": [
+                  349,
+                  639,
+                  359,
+                  640,
+                  359,
+                  658,
+                  349,
+                  658
+                ],
+                "Text": "\u30EF",
+                "Confidence": 0.984
+              },
+              {
+                "BoundingBox": [
+                  359,
+                  640,
+                  371,
+                  641,
+                  370,
+                  659,
+                  359,
+                  658
+                ],
+                "Text": "\u30D9",
+                "Confidence": 0.744
+              },
+              {
+                "BoundingBox": [
+                  379,
+                  642,
+                  389,
+                  642,
+                  389,
+                  661,
+                  379,
+                  660
+                ],
+                "Text": "\u30FC",
+                "Confidence": 0.982
+              },
+              {
+                "BoundingBox": [
+                  389,
+                  642,
+                  399,
+                  643,
+                  399,
+                  661,
+                  389,
+                  661
+                ],
+                "Text": "\u30B3",
+                "Confidence": 0.688
+              },
+              {
+                "BoundingBox": [
+                  399,
+                  643,
+                  411,
+                  643,
+                  410,
+                  662,
+                  399,
+                  661
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.959
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              499,
+              612,
+              541,
+              615,
+              541,
+              631,
+              499,
+              628
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A5170C",
+            "Words": [
+              {
+                "BoundingBox": [
+                  500,
+                  612,
+                  541,
+                  615,
+                  540,
+                  631,
+                  499,
+                  628
+                ],
+                "Text": "\u00A5170C",
+                "Confidence": 0.953
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              505,
+              631,
+              546,
+              635,
+              545,
+              649,
+              505,
+              645
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A5208C",
+            "Words": [
+              {
+                "BoundingBox": [
+                  505,
+                  631,
+                  544,
+                  635,
+                  542,
+                  649,
+                  505,
+                  645
+                ],
+                "Text": "\u00A5208C",
+                "Confidence": 0.307
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              252,
+              653,
+              419,
+              660,
+              418,
+              681,
+              252,
+              674
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.945
+              }
+            },
+            "Text": "\u203B91 \u30AB\u30EB\u30A4\u30B6\u30EF\u30A6\u30A3\u30F3\u30CA\u30FC",
+            "Words": [
+              {
+                "BoundingBox": [
+                  253,
+                  653,
+                  298,
+                  656,
+                  298,
+                  677,
+                  253,
+                  675
+                ],
+                "Text": "\u203B91",
+                "Confidence": 0.988
+              },
+              {
+                "BoundingBox": [
+                  305,
+                  656,
+                  316,
+                  657,
+                  316,
+                  678,
+                  305,
+                  677
+                ],
+                "Text": "\u30AB",
+                "Confidence": 0.982
+              },
+              {
+                "BoundingBox": [
+                  316,
+                  657,
+                  326,
+                  658,
+                  326,
+                  678,
+                  316,
+                  678
+                ],
+                "Text": "\u30EB",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  326,
+                  658,
+                  337,
+                  658,
+                  337,
+                  678,
+                  327,
+                  678
+                ],
+                "Text": "\u30A4",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  337,
+                  658,
+                  351,
+                  659,
+                  351,
+                  679,
+                  337,
+                  678
+                ],
+                "Text": "\u30B6",
+                "Confidence": 0.836
+              },
+              {
+                "BoundingBox": [
+                  353,
+                  659,
+                  363,
+                  659,
+                  363,
+                  679,
+                  353,
+                  679
+                ],
+                "Text": "\u30EF",
+                "Confidence": 0.973
+              },
+              {
+                "BoundingBox": [
+                  364,
+                  659,
+                  377,
+                  660,
+                  377,
+                  679,
+                  364,
+                  679
+                ],
+                "Text": "\u30A6",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  377,
+                  660,
+                  385,
+                  660,
+                  385,
+                  680,
+                  377,
+                  679
+                ],
+                "Text": "\u30A3",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  385,
+                  660,
+                  396,
+                  661,
+                  395,
+                  680,
+                  385,
+                  680
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.988
+              },
+              {
+                "BoundingBox": [
+                  396,
+                  661,
+                  406,
+                  661,
+                  406,
+                  680,
+                  396,
+                  680
+                ],
+                "Text": "\u30CA",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  407,
+                  661,
+                  418,
+                  661,
+                  418,
+                  680,
+                  406,
+                  680
+                ],
+                "Text": "\u30FC",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              512,
+              650,
+              552,
+              654,
+              552,
+              668,
+              512,
+              665
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A5398C",
+            "Words": [
+              {
+                "BoundingBox": [
+                  513,
+                  650,
+                  551,
+                  653,
+                  550,
+                  668,
+                  512,
+                  664
+                ],
+                "Text": "\u00A5398C",
+                "Confidence": 0.978
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              257,
+              678,
+              364,
+              677,
+              365,
+              700,
+              257,
+              701
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u203B94 \u30C8\u30AF\u30CE\u30A6\u30AB",
+            "Words": [
+              {
+                "BoundingBox": [
+                  258,
+                  679,
+                  300,
+                  678,
+                  301,
+                  700,
+                  259,
+                  702
+                ],
+                "Text": "\u203B94",
+                "Confidence": 0.955
+              },
+              {
+                "BoundingBox": [
+                  310,
+                  678,
+                  321,
+                  678,
+                  322,
+                  700,
+                  311,
+                  700
+                ],
+                "Text": "\u30C8",
+                "Confidence": 0.978
+              },
+              {
+                "BoundingBox": [
+                  322,
+                  678,
+                  333,
+                  678,
+                  334,
+                  699,
+                  323,
+                  700
+                ],
+                "Text": "\u30AF",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  333,
+                  678,
+                  344,
+                  678,
+                  345,
+                  699,
+                  334,
+                  699
+                ],
+                "Text": "\u30CE",
+                "Confidence": 0.869
+              },
+              {
+                "BoundingBox": [
+                  344,
+                  678,
+                  353,
+                  679,
+                  354,
+                  699,
+                  345,
+                  699
+                ],
+                "Text": "\u30A6",
+                "Confidence": 0.993
+              },
+              {
+                "BoundingBox": [
+                  353,
+                  679,
+                  364,
+                  679,
+                  365,
+                  699,
+                  354,
+                  699
+                ],
+                "Text": "\u30AB",
+                "Confidence": 0.985
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              519,
+              670,
+              559,
+              671,
+              559,
+              685,
+              519,
+              684
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A5398C",
+            "Words": [
+              {
+                "BoundingBox": [
+                  519,
+                  670,
+                  557,
+                  671,
+                  556,
+                  685,
+                  519,
+                  684
+                ],
+                "Text": "\u00A5398C",
+                "Confidence": 0.818
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              264,
+              705,
+              418,
+              696,
+              420,
+              718,
+              265,
+              727
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u203B91 \u30B7\u30F3\u30B7\u30E5\u30A6\u30CA\u30DE\u30F3\u30D0",
+            "Words": [
+              {
+                "BoundingBox": [
+                  265,
+                  706,
+                  307,
+                  703,
+                  307,
+                  725,
+                  266,
+                  727
+                ],
+                "Text": "\u203B91",
+                "Confidence": 0.949
+              },
+              {
+                "BoundingBox": [
+                  317,
+                  703,
+                  328,
+                  702,
+                  328,
+                  724,
+                  317,
+                  724
+                ],
+                "Text": "\u30B7",
+                "Confidence": 0.966
+              },
+              {
+                "BoundingBox": [
+                  328,
+                  702,
+                  336,
+                  701,
+                  336,
+                  723,
+                  328,
+                  723
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.976
+              },
+              {
+                "BoundingBox": [
+                  337,
+                  701,
+                  348,
+                  701,
+                  348,
+                  722,
+                  337,
+                  723
+                ],
+                "Text": "\u30B7",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  348,
+                  701,
+                  359,
+                  700,
+                  359,
+                  722,
+                  348,
+                  722
+                ],
+                "Text": "\u30E5",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  359,
+                  700,
+                  367,
+                  700,
+                  367,
+                  721,
+                  359,
+                  722
+                ],
+                "Text": "\u30A6",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  368,
+                  700,
+                  379,
+                  699,
+                  379,
+                  721,
+                  368,
+                  721
+                ],
+                "Text": "\u30CA",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  379,
+                  699,
+                  387,
+                  698,
+                  387,
+                  720,
+                  379,
+                  721
+                ],
+                "Text": "\u30DE",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  388,
+                  698,
+                  399,
+                  698,
+                  398,
+                  720,
+                  387,
+                  720
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.931
+              },
+              {
+                "BoundingBox": [
+                  399,
+                  698,
+                  412,
+                  697,
+                  411,
+                  719,
+                  399,
+                  720
+                ],
+                "Text": "\u30D0",
+                "Confidence": 0.984
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              531,
+              689,
+              568,
+              688,
+              568,
+              703,
+              531,
+              703
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.945
+              }
+            },
+            "Text": "\u00A575C",
+            "Words": [
+              {
+                "BoundingBox": [
+                  531,
+                  688,
+                  566,
+                  688,
+                  566,
+                  703,
+                  531,
+                  703
+                ],
+                "Text": "\u00A575C",
+                "Confidence": 0.98
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              531,
+              707,
+              573,
+              706,
+              573,
+              721,
+              532,
+              721
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A52380",
+            "Words": [
+              {
+                "BoundingBox": [
+                  531,
+                  706,
+                  573,
+                  706,
+                  573,
+                  720,
+                  531,
+                  721
+                ],
+                "Text": "\u00A52380",
+                "Confidence": 0.515
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              266,
+              730,
+              385,
+              718,
+              387,
+              742,
+              268,
+              754
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u203B94 P \u30AA\u30AA\u304C",
+            "Words": [
+              {
+                "BoundingBox": [
+                  268,
+                  730,
+                  312,
+                  727,
+                  314,
+                  750,
+                  269,
+                  754
+                ],
+                "Text": "\u203B94",
+                "Confidence": 0.991
+              },
+              {
+                "BoundingBox": [
+                  317,
+                  726,
+                  330,
+                  725,
+                  332,
+                  749,
+                  318,
+                  750
+                ],
+                "Text": "P",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  341,
+                  724,
+                  353,
+                  723,
+                  355,
+                  746,
+                  343,
+                  747
+                ],
+                "Text": "\u30AA",
+                "Confidence": 0.909
+              },
+              {
+                "BoundingBox": [
+                  353,
+                  723,
+                  362,
+                  721,
+                  364,
+                  745,
+                  355,
+                  746
+                ],
+                "Text": "\u30AA",
+                "Confidence": 0.174
+              },
+              {
+                "BoundingBox": [
+                  362,
+                  721,
+                  376,
+                  720,
+                  378,
+                  743,
+                  364,
+                  745
+                ],
+                "Text": "\u304C",
+                "Confidence": 0.782
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              279,
+              756,
+              327,
+              749,
+              329,
+              771,
+              281,
+              778
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.945
+              }
+            },
+            "Text": "\u5C0F\u8A08",
+            "Words": [
+              {
+                "BoundingBox": [
+                  279,
+                  755,
+                  295,
+                  753,
+                  298,
+                  775,
+                  282,
+                  778
+                ],
+                "Text": "\u5C0F",
+                "Confidence": 0.979
+              },
+              {
+                "BoundingBox": [
+                  306,
+                  751,
+                  319,
+                  749,
+                  323,
+                  772,
+                  309,
+                  774
+                ],
+                "Text": "\u8A08",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              422,
+              742,
+              462,
+              740,
+              463,
+              762,
+              424,
+              764
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "12\u70B9",
+            "Words": [
+              {
+                "BoundingBox": [
+                  422,
+                  742,
+                  439,
+                  741,
+                  440,
+                  763,
+                  423,
+                  764
+                ],
+                "Text": "12",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  443,
+                  741,
+                  456,
+                  740,
+                  457,
+                  762,
+                  444,
+                  763
+                ],
+                "Text": "\u70B9",
+                "Confidence": 0.998
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              546,
+              726,
+              576,
+              727,
+              575,
+              744,
+              545,
+              743
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A598C",
+            "Words": [
+              {
+                "BoundingBox": [
+                  545,
+                  726,
+                  574,
+                  727,
+                  574,
+                  744,
+                  545,
+                  743
+                ],
+                "Text": "\u00A598C",
+                "Confidence": 0.895
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              518,
+              747,
+              566,
+              748,
+              566,
+              766,
+              518,
+              764
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A52,621",
+            "Words": [
+              {
+                "BoundingBox": [
+                  518,
+                  747,
+                  566,
+                  748,
+                  565,
+                  766,
+                  518,
+                  764
+                ],
+                "Text": "\u00A52,621",
+                "Confidence": 0.992
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              300,
+              776,
+              451,
+              766,
+              453,
+              789,
+              302,
+              802
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u5916\u7A0E 8%\u5BFE\u8C61\u984D",
+            "Words": [
+              {
+                "BoundingBox": [
+                  301,
+                  777,
+                  316,
+                  776,
+                  318,
+                  801,
+                  304,
+                  803
+                ],
+                "Text": "\u5916",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  330,
+                  774,
+                  345,
+                  773,
+                  346,
+                  798,
+                  332,
+                  800
+                ],
+                "Text": "\u7A0E",
+                "Confidence": 0.978
+              },
+              {
+                "BoundingBox": [
+                  356,
+                  772,
+                  381,
+                  770,
+                  382,
+                  795,
+                  358,
+                  797
+                ],
+                "Text": "8%",
+                "Confidence": 0.993
+              },
+              {
+                "BoundingBox": [
+                  381,
+                  770,
+                  396,
+                  769,
+                  397,
+                  793,
+                  383,
+                  794
+                ],
+                "Text": "\u5BFE",
+                "Confidence": 0.973
+              },
+              {
+                "BoundingBox": [
+                  407,
+                  768,
+                  421,
+                  768,
+                  422,
+                  791,
+                  408,
+                  792
+                ],
+                "Text": "\u8C61",
+                "Confidence": 0.978
+              },
+              {
+                "BoundingBox": [
+                  426,
+                  767,
+                  441,
+                  767,
+                  441,
+                  790,
+                  427,
+                  791
+                ],
+                "Text": "\u984D",
+                "Confidence": 0.963
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              523,
+              770,
+              571,
+              770,
+              571,
+              787,
+              524,
+              786
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.945
+              }
+            },
+            "Text": "\u00A52,621",
+            "Words": [
+              {
+                "BoundingBox": [
+                  524,
+                  770,
+                  571,
+                  770,
+                  570,
+                  787,
+                  524,
+                  786
+                ],
+                "Text": "\u00A52,621",
+                "Confidence": 0.991
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              359,
+              798,
+              436,
+              790,
+              439,
+              811,
+              361,
+              821
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u5916\u7A0E 8%",
+            "Words": [
+              {
+                "BoundingBox": [
+                  360,
+                  799,
+                  373,
+                  797,
+                  375,
+                  820,
+                  362,
+                  822
+                ],
+                "Text": "\u5916",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  386,
+                  796,
+                  399,
+                  794,
+                  401,
+                  816,
+                  388,
+                  818
+                ],
+                "Text": "\u7A0E",
+                "Confidence": 0.965
+              },
+              {
+                "BoundingBox": [
+                  412,
+                  793,
+                  437,
+                  790,
+                  438,
+                  811,
+                  413,
+                  815
+                ],
+                "Text": "8%",
+                "Confidence": 0.991
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              543,
+              791,
+              576,
+              792,
+              576,
+              808,
+              543,
+              807
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A5209",
+            "Words": [
+              {
+                "BoundingBox": [
+                  544,
+                  791,
+                  575,
+                  792,
+                  574,
+                  808,
+                  543,
+                  807
+                ],
+                "Text": "\u00A5209",
+                "Confidence": 0.949
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              282,
+              832,
+              374,
+              820,
+              378,
+              841,
+              283,
+              856
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u5408\u8A08",
+            "Words": [
+              {
+                "BoundingBox": [
+                  292,
+                  831,
+                  305,
+                  829,
+                  307,
+                  853,
+                  293,
+                  855
+                ],
+                "Text": "\u5408",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  336,
+                  825,
+                  350,
+                  824,
+                  351,
+                  845,
+                  338,
+                  848
+                ],
+                "Text": "\u8A08",
+                "Confidence": 0.995
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              481,
+              808,
+              587,
+              810,
+              586,
+              831,
+              480,
+              830
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A52,830",
+            "Words": [
+              {
+                "BoundingBox": [
+                  482,
+                  808,
+                  579,
+                  812,
+                  580,
+                  831,
+                  481,
+                  830
+                ],
+                "Text": "\u00A52,830",
+                "Confidence": 0.995
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              300,
+              843,
+              417,
+              836,
+              418,
+              860,
+              302,
+              866
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u3061\u6D88\u8CBB\u7A0E\u7B49",
+            "Words": [
+              {
+                "BoundingBox": [
+                  308,
+                  844,
+                  321,
+                  843,
+                  324,
+                  865,
+                  311,
+                  867
+                ],
+                "Text": "\u3061",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  332,
+                  842,
+                  345,
+                  842,
+                  347,
+                  864,
+                  334,
+                  865
+                ],
+                "Text": "\u6D88",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  355,
+                  841,
+                  369,
+                  840,
+                  371,
+                  862,
+                  358,
+                  863
+                ],
+                "Text": "\u8CBB",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  379,
+                  839,
+                  393,
+                  838,
+                  394,
+                  861,
+                  381,
+                  862
+                ],
+                "Text": "\u7A0E",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  403,
+                  838,
+                  417,
+                  837,
+                  418,
+                  861,
+                  405,
+                  861
+                ],
+                "Text": "\u7B49",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              523,
+              833,
+              600,
+              833,
+              600,
+              852,
+              523,
+              851
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A5209)",
+            "Words": [
+              {
+                "BoundingBox": [
+                  524,
+                  834,
+                  599,
+                  833,
+                  601,
+                  853,
+                  524,
+                  852
+                ],
+                "Text": "\u00A5209)",
+                "Confidence": 0.981
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              279,
+              863,
+              397,
+              861,
+              398,
+              884,
+              280,
+              887
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.915
+              }
+            },
+            "Text": "\u30AF\u30EC\u30B8\u30C3\u30C8",
+            "Words": [
+              {
+                "BoundingBox": [
+                  285,
+                  863,
+                  300,
+                  863,
+                  302,
+                  887,
+                  286,
+                  888
+                ],
+                "Text": "\u30AF",
+                "Confidence": 0.937
+              },
+              {
+                "BoundingBox": [
+                  306,
+                  863,
+                  321,
+                  863,
+                  323,
+                  887,
+                  307,
+                  887
+                ],
+                "Text": "\u30EC",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  324,
+                  863,
+                  342,
+                  863,
+                  344,
+                  886,
+                  325,
+                  886
+                ],
+                "Text": "\u30B8",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  348,
+                  863,
+                  363,
+                  862,
+                  365,
+                  885,
+                  349,
+                  885
+                ],
+                "Text": "\u30C3",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  372,
+                  862,
+                  387,
+                  862,
+                  389,
+                  883,
+                  373,
+                  884
+                ],
+                "Text": "\u30C8",
+                "Confidence": 0.994
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              482,
+              857,
+              602,
+              853,
+              603,
+              874,
+              483,
+              879
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u00A52,830",
+            "Words": [
+              {
+                "BoundingBox": [
+                  482,
+                  858,
+                  593,
+                  854,
+                  595,
+                  875,
+                  483,
+                  880
+                ],
+                "Text": "\u00A52,830",
+                "Confidence": 0.993
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              278,
+              893,
+              428,
+              885,
+              430,
+              908,
+              280,
+              916
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u30AF\u30EC\u30B8\u30C3\u30C8\u652F\u6255",
+            "Words": [
+              {
+                "BoundingBox": [
+                  280,
+                  895,
+                  293,
+                  894,
+                  294,
+                  915,
+                  281,
+                  916
+                ],
+                "Text": "\u30AF",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  297,
+                  894,
+                  313,
+                  892,
+                  314,
+                  914,
+                  298,
+                  915
+                ],
+                "Text": "\u30EC",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  320,
+                  892,
+                  334,
+                  891,
+                  335,
+                  913,
+                  322,
+                  914
+                ],
+                "Text": "\u30B8",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  344,
+                  890,
+                  357,
+                  889,
+                  358,
+                  912,
+                  345,
+                  913
+                ],
+                "Text": "\u30C3",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  367,
+                  889,
+                  380,
+                  888,
+                  381,
+                  911,
+                  368,
+                  912
+                ],
+                "Text": "\u30C8",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  391,
+                  888,
+                  404,
+                  887,
+                  405,
+                  910,
+                  392,
+                  910
+                ],
+                "Text": "\u652F",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  411,
+                  887,
+                  424,
+                  886,
+                  425,
+                  909,
+                  412,
+                  910
+                ],
+                "Text": "\u6255",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              280,
+              918,
+              380,
+              914,
+              381,
+              935,
+              281,
+              939
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "IC SAISON",
+            "Words": [
+              {
+                "BoundingBox": [
+                  281,
+                  919,
+                  300,
+                  918,
+                  301,
+                  938,
+                  281,
+                  939
+                ],
+                "Text": "IC",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  310,
+                  917,
+                  378,
+                  914,
+                  378,
+                  936,
+                  311,
+                  938
+                ],
+                "Text": "SAISON",
+                "Confidence": 0.997
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              284,
+              942,
+              546,
+              926,
+              548,
+              947,
+              285,
+              966
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u30AB\u30FC\u30C9No .:************ 3086",
+            "Words": [
+              {
+                "BoundingBox": [
+                  285,
+                  943,
+                  297,
+                  942,
+                  298,
+                  965,
+                  286,
+                  966
+                ],
+                "Text": "\u30AB",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  307,
+                  941,
+                  319,
+                  940,
+                  320,
+                  963,
+                  308,
+                  964
+                ],
+                "Text": "\u30FC",
+                "Confidence": 0.987
+              },
+              {
+                "BoundingBox": [
+                  328,
+                  940,
+                  341,
+                  939,
+                  342,
+                  961,
+                  330,
+                  962
+                ],
+                "Text": "\u30C9",
+                "Confidence": 0.966
+              },
+              {
+                "BoundingBox": [
+                  345,
+                  939,
+                  361,
+                  938,
+                  362,
+                  960,
+                  346,
+                  961
+                ],
+                "Text": "No",
+                "Confidence": 0.991
+              },
+              {
+                "BoundingBox": [
+                  361,
+                  938,
+                  503,
+                  929,
+                  504,
+                  949,
+                  362,
+                  960
+                ],
+                "Text": ".:************",
+                "Confidence": 0.761
+              },
+              {
+                "BoundingBox": [
+                  503,
+                  929,
+                  546,
+                  927,
+                  547,
+                  946,
+                  504,
+                  949
+                ],
+                "Text": "3086",
+                "Confidence": 0.993
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              284,
+              967,
+              590,
+              946,
+              592,
+              966,
+              285,
+              990
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u5FAA\u74B0No. : 38690 \u627F\u8A8DNo:584216",
+            "Words": [
+              {
+                "BoundingBox": [
+                  285,
+                  969,
+                  298,
+                  968,
+                  299,
+                  990,
+                  286,
+                  991
+                ],
+                "Text": "\u5FAA",
+                "Confidence": 0.918
+              },
+              {
+                "BoundingBox": [
+                  311,
+                  967,
+                  324,
+                  965,
+                  325,
+                  988,
+                  312,
+                  989
+                ],
+                "Text": "\u74B0",
+                "Confidence": 0.273
+              },
+              {
+                "BoundingBox": [
+                  325,
+                  965,
+                  353,
+                  963,
+                  354,
+                  986,
+                  327,
+                  988
+                ],
+                "Text": "No.",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  366,
+                  961,
+                  377,
+                  960,
+                  378,
+                  984,
+                  367,
+                  985
+                ],
+                "Text": ":",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  377,
+                  960,
+                  434,
+                  956,
+                  435,
+                  979,
+                  379,
+                  984
+                ],
+                "Text": "38690",
+                "Confidence": 0.906
+              },
+              {
+                "BoundingBox": [
+                  458,
+                  954,
+                  471,
+                  953,
+                  473,
+                  976,
+                  460,
+                  977
+                ],
+                "Text": "\u627F",
+                "Confidence": 0.686
+              },
+              {
+                "BoundingBox": [
+                  482,
+                  953,
+                  495,
+                  952,
+                  496,
+                  974,
+                  483,
+                  975
+                ],
+                "Text": "\u8A8D",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  496,
+                  952,
+                  590,
+                  947,
+                  592,
+                  966,
+                  498,
+                  974
+                ],
+                "Text": "No:584216",
+                "Confidence": 1
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              285,
+              990,
+              495,
+              977,
+              497,
+              998,
+              287,
+              1014
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u53D6\u5F15\u533A\u5206:\u58F2\u4E0A(\u4E00\u62EC)",
+            "Words": [
+              {
+                "BoundingBox": [
+                  287,
+                  992,
+                  303,
+                  990,
+                  305,
+                  1013,
+                  288,
+                  1015
+                ],
+                "Text": "\u53D6",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  308,
+                  989,
+                  322,
+                  988,
+                  323,
+                  1012,
+                  309,
+                  1013
+                ],
+                "Text": "\u5F15",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  333,
+                  987,
+                  346,
+                  986,
+                  347,
+                  1010,
+                  334,
+                  1011
+                ],
+                "Text": "\u533A",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  354,
+                  985,
+                  368,
+                  984,
+                  369,
+                  1008,
+                  355,
+                  1009
+                ],
+                "Text": "\u5206",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  369,
+                  984,
+                  383,
+                  983,
+                  384,
+                  1007,
+                  370,
+                  1008
+                ],
+                "Text": ":",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  388,
+                  983,
+                  401,
+                  982,
+                  402,
+                  1006,
+                  389,
+                  1007
+                ],
+                "Text": "\u58F2",
+                "Confidence": 0.992
+              },
+              {
+                "BoundingBox": [
+                  406,
+                  981,
+                  420,
+                  980,
+                  421,
+                  1004,
+                  407,
+                  1005
+                ],
+                "Text": "\u4E0A",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  431,
+                  980,
+                  446,
+                  979,
+                  446,
+                  1002,
+                  431,
+                  1003
+                ],
+                "Text": "(",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  446,
+                  979,
+                  460,
+                  978,
+                  460,
+                  1001,
+                  447,
+                  1002
+                ],
+                "Text": "\u4E00",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  471,
+                  978,
+                  482,
+                  978,
+                  483,
+                  1000,
+                  471,
+                  1000
+                ],
+                "Text": "\u62EC",
+                "Confidence": 0.986
+              },
+              {
+                "BoundingBox": [
+                  483,
+                  978,
+                  494,
+                  977,
+                  495,
+                  999,
+                  483,
+                  999
+                ],
+                "Text": ")",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              288,
+              1015,
+              480,
+              999,
+              482,
+              1020,
+              288,
+              1037
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "AID:A0000000031010",
+            "Words": [
+              {
+                "BoundingBox": [
+                  288,
+                  1017,
+                  476,
+                  1000,
+                  477,
+                  1021,
+                  289,
+                  1037
+                ],
+                "Text": "AID:A0000000031010",
+                "Confidence": 0.953
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              290,
+              1038,
+              394,
+              1028,
+              396,
+              1048,
+              291,
+              1058
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "VISACREDIT",
+            "Words": [
+              {
+                "BoundingBox": [
+                  290,
+                  1038,
+                  395,
+                  1029,
+                  395,
+                  1049,
+                  292,
+                  1058
+                ],
+                "Text": "VISACREDIT",
+                "Confidence": 0.994
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              291,
+              1058,
+              574,
+              1035,
+              575,
+              1057,
+              292,
+              1081
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u203B\u5370\u306F\u8EFD\u6E1B\u7A0E\u7387\u5BFE\u8C61\u5546\u54C1\u3067\u3059\u3002",
+            "Words": [
+              {
+                "BoundingBox": [
+                  292,
+                  1059,
+                  306,
+                  1058,
+                  307,
+                  1080,
+                  294,
+                  1081
+                ],
+                "Text": "\u203B",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  313,
+                  1057,
+                  326,
+                  1056,
+                  328,
+                  1079,
+                  314,
+                  1080
+                ],
+                "Text": "\u5370",
+                "Confidence": 0.942
+              },
+              {
+                "BoundingBox": [
+                  336,
+                  1055,
+                  350,
+                  1054,
+                  351,
+                  1077,
+                  338,
+                  1078
+                ],
+                "Text": "\u306F",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  354,
+                  1053,
+                  367,
+                  1052,
+                  369,
+                  1075,
+                  356,
+                  1076
+                ],
+                "Text": "\u8EFD",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  377,
+                  1052,
+                  391,
+                  1050,
+                  392,
+                  1073,
+                  379,
+                  1074
+                ],
+                "Text": "\u6E1B",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  401,
+                  1050,
+                  414,
+                  1048,
+                  416,
+                  1071,
+                  403,
+                  1073
+                ],
+                "Text": "\u7A0E",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  421,
+                  1048,
+                  435,
+                  1047,
+                  437,
+                  1070,
+                  423,
+                  1071
+                ],
+                "Text": "\u7387",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  439,
+                  1046,
+                  452,
+                  1045,
+                  454,
+                  1068,
+                  441,
+                  1069
+                ],
+                "Text": "\u5BFE",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  462,
+                  1045,
+                  476,
+                  1044,
+                  478,
+                  1066,
+                  465,
+                  1067
+                ],
+                "Text": "\u8C61",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  486,
+                  1043,
+                  499,
+                  1042,
+                  501,
+                  1064,
+                  488,
+                  1065
+                ],
+                "Text": "\u5546",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  506,
+                  1041,
+                  520,
+                  1040,
+                  522,
+                  1062,
+                  509,
+                  1063
+                ],
+                "Text": "\u54C1",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  524,
+                  1040,
+                  537,
+                  1039,
+                  540,
+                  1060,
+                  526,
+                  1062
+                ],
+                "Text": "\u3067",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  545,
+                  1038,
+                  556,
+                  1037,
+                  559,
+                  1059,
+                  547,
+                  1060
+                ],
+                "Text": "\u3059",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  556,
+                  1037,
+                  570,
+                  1036,
+                  572,
+                  1057,
+                  559,
+                  1059
+                ],
+                "Text": "\u3002",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              291,
+              1080,
+              589,
+              1054,
+              592,
+              1078,
+              294,
+              1103
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "TX(\u306F\u30BB\u30EB\u30D5\u30E1\u30C7\u30A3\u30B1\u30FC\u30B7\u30E7\u30F3\u5BFE\u8C61\u5546\u54C1\u3067\u3059\u3002",
+            "Words": [
+              {
+                "BoundingBox": [
+                  292,
+                  1080,
+                  317,
+                  1079,
+                  320,
+                  1102,
+                  295,
+                  1103
+                ],
+                "Text": "TX(",
+                "Confidence": 0.966
+              },
+              {
+                "BoundingBox": [
+                  317,
+                  1079,
+                  330,
+                  1079,
+                  333,
+                  1101,
+                  320,
+                  1102
+                ],
+                "Text": "\u306F",
+                "Confidence": 0.924
+              },
+              {
+                "BoundingBox": [
+                  331,
+                  1079,
+                  339,
+                  1079,
+                  342,
+                  1101,
+                  334,
+                  1101
+                ],
+                "Text": "\u30BB",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  340,
+                  1078,
+                  352,
+                  1078,
+                  355,
+                  1100,
+                  343,
+                  1101
+                ],
+                "Text": "\u30EB",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  354,
+                  1078,
+                  362,
+                  1077,
+                  364,
+                  1099,
+                  356,
+                  1100
+                ],
+                "Text": "\u30D5",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  362,
+                  1077,
+                  374,
+                  1077,
+                  377,
+                  1098,
+                  365,
+                  1099
+                ],
+                "Text": "\u30E1",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  376,
+                  1077,
+                  388,
+                  1076,
+                  391,
+                  1097,
+                  378,
+                  1098
+                ],
+                "Text": "\u30C7",
+                "Confidence": 0.992
+              },
+              {
+                "BoundingBox": [
+                  395,
+                  1075,
+                  406,
+                  1074,
+                  408,
+                  1096,
+                  398,
+                  1097
+                ],
+                "Text": "\u30A3",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  406,
+                  1074,
+                  414,
+                  1074,
+                  417,
+                  1095,
+                  409,
+                  1096
+                ],
+                "Text": "\u30B1",
+                "Confidence": 0.994
+              },
+              {
+                "BoundingBox": [
+                  415,
+                  1074,
+                  425,
+                  1073,
+                  428,
+                  1094,
+                  417,
+                  1095
+                ],
+                "Text": "\u30FC",
+                "Confidence": 0.989
+              },
+              {
+                "BoundingBox": [
+                  426,
+                  1073,
+                  436,
+                  1072,
+                  439,
+                  1093,
+                  428,
+                  1094
+                ],
+                "Text": "\u30B7",
+                "Confidence": 0.993
+              },
+              {
+                "BoundingBox": [
+                  437,
+                  1072,
+                  445,
+                  1071,
+                  447,
+                  1092,
+                  439,
+                  1093
+                ],
+                "Text": "\u30E7",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  445,
+                  1071,
+                  457,
+                  1070,
+                  460,
+                  1091,
+                  447,
+                  1092
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.989
+              },
+              {
+                "BoundingBox": [
+                  459,
+                  1070,
+                  471,
+                  1069,
+                  474,
+                  1089,
+                  461,
+                  1091
+                ],
+                "Text": "\u5BFE",
+                "Confidence": 0.993
+              },
+              {
+                "BoundingBox": [
+                  484,
+                  1067,
+                  496,
+                  1066,
+                  498,
+                  1087,
+                  486,
+                  1088
+                ],
+                "Text": "\u8C61",
+                "Confidence": 0.989
+              },
+              {
+                "BoundingBox": [
+                  503,
+                  1065,
+                  516,
+                  1064,
+                  518,
+                  1084,
+                  505,
+                  1086
+                ],
+                "Text": "\u5546",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  522,
+                  1063,
+                  535,
+                  1062,
+                  537,
+                  1082,
+                  524,
+                  1083
+                ],
+                "Text": "\u54C1",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  544,
+                  1060,
+                  557,
+                  1059,
+                  559,
+                  1079,
+                  546,
+                  1080
+                ],
+                "Text": "\u3067",
+                "Confidence": 0.993
+              },
+              {
+                "BoundingBox": [
+                  564,
+                  1058,
+                  576,
+                  1056,
+                  578,
+                  1076,
+                  566,
+                  1078
+                ],
+                "Text": "\u3059",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  578,
+                  1056,
+                  588,
+                  1054,
+                  590,
+                  1074,
+                  579,
+                  1076
+                ],
+                "Text": "\u3002",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              292,
+              1104,
+              607,
+              1073,
+              609,
+              1097,
+              294,
+              1128
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u5F53\u5E97\u3067\u306F\u7A0E\u629C\u4FA1\u683C\u306E\u5C0F\u8A08\u306B\u5BFE\u3057\u3066",
+            "Words": [
+              {
+                "BoundingBox": [
+                  296,
+                  1105,
+                  309,
+                  1104,
+                  312,
+                  1126,
+                  299,
+                  1128
+                ],
+                "Text": "\u5F53",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  317,
+                  1103,
+                  330,
+                  1102,
+                  333,
+                  1125,
+                  320,
+                  1126
+                ],
+                "Text": "\u5E97",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  337,
+                  1102,
+                  351,
+                  1100,
+                  353,
+                  1123,
+                  340,
+                  1124
+                ],
+                "Text": "\u3067",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  352,
+                  1100,
+                  365,
+                  1099,
+                  368,
+                  1121,
+                  355,
+                  1122
+                ],
+                "Text": "\u306F",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  382,
+                  1098,
+                  395,
+                  1097,
+                  398,
+                  1118,
+                  384,
+                  1120
+                ],
+                "Text": "\u7A0E",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  405,
+                  1096,
+                  418,
+                  1095,
+                  421,
+                  1116,
+                  408,
+                  1117
+                ],
+                "Text": "\u629C",
+                "Confidence": 0.992
+              },
+              {
+                "BoundingBox": [
+                  426,
+                  1094,
+                  439,
+                  1093,
+                  442,
+                  1114,
+                  429,
+                  1115
+                ],
+                "Text": "\u4FA1",
+                "Confidence": 0.993
+              },
+              {
+                "BoundingBox": [
+                  446,
+                  1092,
+                  460,
+                  1090,
+                  462,
+                  1112,
+                  449,
+                  1113
+                ],
+                "Text": "\u683C",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  461,
+                  1090,
+                  475,
+                  1089,
+                  477,
+                  1111,
+                  464,
+                  1112
+                ],
+                "Text": "\u306E",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  482,
+                  1088,
+                  495,
+                  1087,
+                  498,
+                  1109,
+                  484,
+                  1110
+                ],
+                "Text": "\u5C0F",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  511,
+                  1085,
+                  523,
+                  1084,
+                  525,
+                  1106,
+                  514,
+                  1107
+                ],
+                "Text": "\u8A08",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  523,
+                  1084,
+                  539,
+                  1082,
+                  542,
+                  1104,
+                  526,
+                  1106
+                ],
+                "Text": "\u306B",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  547,
+                  1081,
+                  563,
+                  1079,
+                  565,
+                  1102,
+                  549,
+                  1103
+                ],
+                "Text": "\u5BFE",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  564,
+                  1079,
+                  578,
+                  1077,
+                  580,
+                  1100,
+                  567,
+                  1102
+                ],
+                "Text": "\u3057",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  591,
+                  1075,
+                  604,
+                  1074,
+                  606,
+                  1098,
+                  593,
+                  1099
+                ],
+                "Text": "\u3066",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              293,
+              1124,
+              598,
+              1102,
+              600,
+              1126,
+              295,
+              1151
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u6D88\u8CBB\u7A0E\u3092\u8A08\u7B97\u3057\u8ACB\u6C42\u3057\u3066\u3044\u307E\u3059\u3002",
+            "Words": [
+              {
+                "BoundingBox": [
+                  294,
+                  1128,
+                  308,
+                  1126,
+                  310,
+                  1149,
+                  296,
+                  1151
+                ],
+                "Text": "\u6D88",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  318,
+                  1125,
+                  331,
+                  1124,
+                  334,
+                  1146,
+                  320,
+                  1147
+                ],
+                "Text": "\u8CBB",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  342,
+                  1122,
+                  355,
+                  1121,
+                  357,
+                  1143,
+                  344,
+                  1144
+                ],
+                "Text": "\u7A0E",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  363,
+                  1120,
+                  376,
+                  1118,
+                  378,
+                  1141,
+                  365,
+                  1142
+                ],
+                "Text": "\u3092",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  381,
+                  1118,
+                  394,
+                  1117,
+                  396,
+                  1139,
+                  383,
+                  1140
+                ],
+                "Text": "\u8A08",
+                "Confidence": 0.987
+              },
+              {
+                "BoundingBox": [
+                  402,
+                  1116,
+                  415,
+                  1115,
+                  417,
+                  1137,
+                  403,
+                  1138
+                ],
+                "Text": "\u7B97",
+                "Confidence": 0.984
+              },
+              {
+                "BoundingBox": [
+                  422,
+                  1114,
+                  436,
+                  1113,
+                  438,
+                  1135,
+                  424,
+                  1136
+                ],
+                "Text": "\u3057",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  440,
+                  1112,
+                  454,
+                  1111,
+                  456,
+                  1134,
+                  442,
+                  1135
+                ],
+                "Text": "\u8ACB",
+                "Confidence": 0.867
+              },
+              {
+                "BoundingBox": [
+                  464,
+                  1110,
+                  478,
+                  1109,
+                  479,
+                  1132,
+                  466,
+                  1133
+                ],
+                "Text": "\u6C42",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  485,
+                  1109,
+                  499,
+                  1108,
+                  500,
+                  1131,
+                  487,
+                  1131
+                ],
+                "Text": "\u3057",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  506,
+                  1107,
+                  520,
+                  1106,
+                  521,
+                  1129,
+                  508,
+                  1130
+                ],
+                "Text": "\u3066",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  524,
+                  1106,
+                  538,
+                  1105,
+                  539,
+                  1129,
+                  526,
+                  1129
+                ],
+                "Text": "\u3044",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  551,
+                  1104,
+                  565,
+                  1104,
+                  566,
+                  1128,
+                  553,
+                  1128
+                ],
+                "Text": "\u307E",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  572,
+                  1103,
+                  584,
+                  1103,
+                  585,
+                  1127,
+                  573,
+                  1127
+                ],
+                "Text": "\u3059",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  584,
+                  1103,
+                  598,
+                  1102,
+                  599,
+                  1127,
+                  585,
+                  1127
+                ],
+                "Text": "\u3002",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              304,
+              1144,
+              627,
+              1134,
+              628,
+              1158,
+              305,
+              1172
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u3086\u5927\u897F\u53CB\u30A2\u30D7\u30EA\u3067\u697D\u5929\u30DD\u30A4\u30F3\u30C8\u8CAF\u307E\u308B!",
+            "Words": [
+              {
+                "BoundingBox": [
+                  309,
+                  1151,
+                  323,
+                  1149,
+                  325,
+                  1171,
+                  310,
+                  1172
+                ],
+                "Text": "\u3086",
+                "Confidence": 0.192
+              },
+              {
+                "BoundingBox": [
+                  325,
+                  1149,
+                  340,
+                  1147,
+                  341,
+                  1170,
+                  326,
+                  1171
+                ],
+                "Text": "\u5927",
+                "Confidence": 0.669
+              },
+              {
+                "BoundingBox": [
+                  348,
+                  1146,
+                  362,
+                  1145,
+                  364,
+                  1169,
+                  349,
+                  1170
+                ],
+                "Text": "\u897F",
+                "Confidence": 0.987
+              },
+              {
+                "BoundingBox": [
+                  367,
+                  1144,
+                  382,
+                  1143,
+                  383,
+                  1168,
+                  369,
+                  1169
+                ],
+                "Text": "\u53CB",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  384,
+                  1143,
+                  398,
+                  1141,
+                  399,
+                  1167,
+                  385,
+                  1168
+                ],
+                "Text": "\u30A2",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  400,
+                  1141,
+                  415,
+                  1140,
+                  416,
+                  1166,
+                  401,
+                  1167
+                ],
+                "Text": "\u30D7",
+                "Confidence": 0.937
+              },
+              {
+                "BoundingBox": [
+                  416,
+                  1140,
+                  431,
+                  1139,
+                  432,
+                  1165,
+                  417,
+                  1166
+                ],
+                "Text": "\u30EA",
+                "Confidence": 0.987
+              },
+              {
+                "BoundingBox": [
+                  433,
+                  1139,
+                  447,
+                  1138,
+                  448,
+                  1165,
+                  434,
+                  1165
+                ],
+                "Text": "\u3067",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  452,
+                  1137,
+                  467,
+                  1137,
+                  468,
+                  1164,
+                  453,
+                  1164
+                ],
+                "Text": "\u697D",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  472,
+                  1136,
+                  487,
+                  1136,
+                  487,
+                  1163,
+                  473,
+                  1164
+                ],
+                "Text": "\u5929",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  491,
+                  1136,
+                  506,
+                  1135,
+                  507,
+                  1162,
+                  492,
+                  1163
+                ],
+                "Text": "\u30DD",
+                "Confidence": 0.978
+              },
+              {
+                "BoundingBox": [
+                  508,
+                  1135,
+                  520,
+                  1135,
+                  521,
+                  1162,
+                  509,
+                  1162
+                ],
+                "Text": "\u30A4",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  521,
+                  1135,
+                  536,
+                  1134,
+                  536,
+                  1161,
+                  522,
+                  1162
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  537,
+                  1134,
+                  552,
+                  1134,
+                  553,
+                  1161,
+                  538,
+                  1161
+                ],
+                "Text": "\u30C8",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  560,
+                  1134,
+                  575,
+                  1134,
+                  575,
+                  1160,
+                  561,
+                  1160
+                ],
+                "Text": "\u8CAF",
+                "Confidence": 0.985
+              },
+              {
+                "BoundingBox": [
+                  580,
+                  1134,
+                  595,
+                  1135,
+                  595,
+                  1159,
+                  580,
+                  1160
+                ],
+                "Text": "\u307E",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  596,
+                  1135,
+                  609,
+                  1135,
+                  609,
+                  1159,
+                  597,
+                  1159
+                ],
+                "Text": "\u308B",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  609,
+                  1135,
+                  624,
+                  1135,
+                  624,
+                  1159,
+                  610,
+                  1159
+                ],
+                "Text": "!",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              308,
+              1192,
+              400,
+              1191,
+              401,
+              1215,
+              308,
+              1217
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.815
+              }
+            },
+            "Text": "\u4ECA\u3059\u3050",
+            "Words": [
+              {
+                "BoundingBox": [
+                  309,
+                  1193,
+                  324,
+                  1193,
+                  324,
+                  1217,
+                  308,
+                  1217
+                ],
+                "Text": "\u4ECA",
+                "Confidence": 0.973
+              },
+              {
+                "BoundingBox": [
+                  327,
+                  1193,
+                  343,
+                  1193,
+                  342,
+                  1217,
+                  326,
+                  1217
+                ],
+                "Text": "\u3059",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  343,
+                  1193,
+                  359,
+                  1192,
+                  359,
+                  1217,
+                  343,
+                  1217
+                ],
+                "Text": "\u3050",
+                "Confidence": 0.836
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              303,
+              1218,
+              471,
+              1224,
+              469,
+              1254,
+              303,
+              1244
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u30A2\u30D7\u30EA\u30BF\u30A6\u30F3\u30ED\u30FC\u30C9!",
+            "Words": [
+              {
+                "BoundingBox": [
+                  305,
+                  1218,
+                  319,
+                  1218,
+                  319,
+                  1246,
+                  305,
+                  1245
+                ],
+                "Text": "\u30A2",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  320,
+                  1218,
+                  338,
+                  1218,
+                  338,
+                  1247,
+                  320,
+                  1246
+                ],
+                "Text": "\u30D7",
+                "Confidence": 0.966
+              },
+              {
+                "BoundingBox": [
+                  339,
+                  1218,
+                  356,
+                  1219,
+                  355,
+                  1248,
+                  339,
+                  1247
+                ],
+                "Text": "\u30EA",
+                "Confidence": 0.984
+              },
+              {
+                "BoundingBox": [
+                  358,
+                  1219,
+                  372,
+                  1219,
+                  372,
+                  1249,
+                  357,
+                  1248
+                ],
+                "Text": "\u30BF",
+                "Confidence": 0.977
+              },
+              {
+                "BoundingBox": [
+                  373,
+                  1219,
+                  384,
+                  1220,
+                  383,
+                  1250,
+                  372,
+                  1249
+                ],
+                "Text": "\u30A6",
+                "Confidence": 0.976
+              },
+              {
+                "BoundingBox": [
+                  384,
+                  1220,
+                  399,
+                  1221,
+                  398,
+                  1251,
+                  384,
+                  1250
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  399,
+                  1221,
+                  416,
+                  1222,
+                  416,
+                  1252,
+                  399,
+                  1251
+                ],
+                "Text": "\u30ED",
+                "Confidence": 0.987
+              },
+              {
+                "BoundingBox": [
+                  418,
+                  1222,
+                  435,
+                  1223,
+                  435,
+                  1253,
+                  418,
+                  1252
+                ],
+                "Text": "\u30FC",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  437,
+                  1223,
+                  454,
+                  1225,
+                  453,
+                  1254,
+                  436,
+                  1253
+                ],
+                "Text": "\u30C9",
+                "Confidence": 0.96
+              },
+              {
+                "BoundingBox": [
+                  456,
+                  1225,
+                  470,
+                  1227,
+                  469,
+                  1255,
+                  455,
+                  1254
+                ],
+                "Text": "!",
+                "Confidence": 0.997
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              323,
+              1292,
+              609,
+              1275,
+              611,
+              1313,
+              324,
+              1324
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u304A\u5BA2\u3055\u307E\u306E\u58F0\u3092\u304A\u805E\u304B\u305B\u304F\u3060\u3055\u3044\u3002",
+            "Words": [
+              {
+                "BoundingBox": [
+                  327,
+                  1293,
+                  342,
+                  1294,
+                  339,
+                  1319,
+                  324,
+                  1317
+                ],
+                "Text": "\u304A",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  347,
+                  1295,
+                  359,
+                  1296,
+                  357,
+                  1321,
+                  344,
+                  1319
+                ],
+                "Text": "\u5BA2",
+                "Confidence": 0.901
+              },
+              {
+                "BoundingBox": [
+                  360,
+                  1296,
+                  374,
+                  1297,
+                  373,
+                  1322,
+                  358,
+                  1321
+                ],
+                "Text": "\u3055",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  379,
+                  1297,
+                  392,
+                  1298,
+                  391,
+                  1323,
+                  378,
+                  1322
+                ],
+                "Text": "\u307E",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  392,
+                  1298,
+                  407,
+                  1299,
+                  406,
+                  1324,
+                  391,
+                  1323
+                ],
+                "Text": "\u306E",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  412,
+                  1299,
+                  427,
+                  1298,
+                  426,
+                  1324,
+                  411,
+                  1324
+                ],
+                "Text": "\u58F0",
+                "Confidence": 0.212
+              },
+              {
+                "BoundingBox": [
+                  432,
+                  1298,
+                  444,
+                  1298,
+                  444,
+                  1324,
+                  431,
+                  1324
+                ],
+                "Text": "\u3092",
+                "Confidence": 0.949
+              },
+              {
+                "BoundingBox": [
+                  445,
+                  1298,
+                  460,
+                  1298,
+                  459,
+                  1323,
+                  444,
+                  1324
+                ],
+                "Text": "\u304A",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  465,
+                  1297,
+                  479,
+                  1296,
+                  479,
+                  1322,
+                  464,
+                  1323
+                ],
+                "Text": "\u805E",
+                "Confidence": 0.303
+              },
+              {
+                "BoundingBox": [
+                  481,
+                  1296,
+                  496,
+                  1295,
+                  496,
+                  1321,
+                  481,
+                  1322
+                ],
+                "Text": "\u304B",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  504,
+                  1294,
+                  518,
+                  1292,
+                  519,
+                  1318,
+                  504,
+                  1320
+                ],
+                "Text": "\u305B",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  520,
+                  1292,
+                  535,
+                  1290,
+                  536,
+                  1315,
+                  521,
+                  1318
+                ],
+                "Text": "\u304F",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  536,
+                  1290,
+                  551,
+                  1287,
+                  552,
+                  1312,
+                  537,
+                  1315
+                ],
+                "Text": "\u3060",
+                "Confidence": 0.243
+              },
+              {
+                "BoundingBox": [
+                  559,
+                  1286,
+                  571,
+                  1283,
+                  573,
+                  1308,
+                  560,
+                  1311
+                ],
+                "Text": "\u3055",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  572,
+                  1283,
+                  586,
+                  1280,
+                  588,
+                  1304,
+                  573,
+                  1308
+                ],
+                "Text": "\u3044",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  591,
+                  1279,
+                  605,
+                  1276,
+                  608,
+                  1300,
+                  593,
+                  1303
+                ],
+                "Text": "\u3002",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              310,
+              1315,
+              619,
+              1290,
+              623,
+              1343,
+              312,
+              1357
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.815
+              }
+            },
+            "Text": "\u304A\u5BA2\u3055\u307E\u30A2\u30F3\u30B1\u30FC\u30C8\u30E6\u30A2\u00B7\u30EC\u30DD",
+            "Words": [
+              {
+                "BoundingBox": [
+                  314,
+                  1322,
+                  329,
+                  1323,
+                  327,
+                  1352,
+                  311,
+                  1350
+                ],
+                "Text": "\u304A",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  330,
+                  1323,
+                  342,
+                  1324,
+                  340,
+                  1353,
+                  327,
+                  1352
+                ],
+                "Text": "\u5BA2",
+                "Confidence": 0.432
+              },
+              {
+                "BoundingBox": [
+                  343,
+                  1325,
+                  356,
+                  1326,
+                  354,
+                  1355,
+                  341,
+                  1353
+                ],
+                "Text": "\u3055",
+                "Confidence": 0.981
+              },
+              {
+                "BoundingBox": [
+                  356,
+                  1326,
+                  374,
+                  1326,
+                  372,
+                  1356,
+                  354,
+                  1355
+                ],
+                "Text": "\u307E",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  374,
+                  1326,
+                  391,
+                  1327,
+                  390,
+                  1357,
+                  373,
+                  1356
+                ],
+                "Text": "\u30A2",
+                "Confidence": 0.987
+              },
+              {
+                "BoundingBox": [
+                  392,
+                  1327,
+                  405,
+                  1327,
+                  404,
+                  1357,
+                  391,
+                  1357
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.994
+              },
+              {
+                "BoundingBox": [
+                  405,
+                  1327,
+                  422,
+                  1326,
+                  422,
+                  1357,
+                  405,
+                  1357
+                ],
+                "Text": "\u30B1",
+                "Confidence": 0.873
+              },
+              {
+                "BoundingBox": [
+                  423,
+                  1326,
+                  436,
+                  1326,
+                  436,
+                  1357,
+                  423,
+                  1357
+                ],
+                "Text": "\u30FC",
+                "Confidence": 0.988
+              },
+              {
+                "BoundingBox": [
+                  436,
+                  1326,
+                  458,
+                  1324,
+                  459,
+                  1357,
+                  437,
+                  1357
+                ],
+                "Text": "\u30C8",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  459,
+                  1324,
+                  481,
+                  1321,
+                  483,
+                  1355,
+                  459,
+                  1356
+                ],
+                "Text": "\u30E6",
+                "Confidence": 0.928
+              },
+              {
+                "BoundingBox": [
+                  490,
+                  1320,
+                  512,
+                  1317,
+                  514,
+                  1352,
+                  491,
+                  1355
+                ],
+                "Text": "\u30A2",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  516,
+                  1316,
+                  537,
+                  1312,
+                  540,
+                  1349,
+                  518,
+                  1351
+                ],
+                "Text": "\u00B7",
+                "Confidence": 0.955
+              },
+              {
+                "BoundingBox": [
+                  538,
+                  1312,
+                  560,
+                  1307,
+                  564,
+                  1345,
+                  541,
+                  1349
+                ],
+                "Text": "\u30EC",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  568,
+                  1305,
+                  590,
+                  1298,
+                  594,
+                  1339,
+                  572,
+                  1343
+                ],
+                "Text": "\u30DD",
+                "Confidence": 0.981
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              298,
+              1362,
+              633,
+              1332,
+              637,
+              1380,
+              299,
+              1401
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u3054\u56DE\u7B54\u8005\u5168\u54E1\u306B \u30B9\u30DE\u30DB\u3067\u4F7F\u3048\u308B",
+            "Words": [
+              {
+                "BoundingBox": [
+                  304,
+                  1362,
+                  321,
+                  1363,
+                  315,
+                  1398,
+                  298,
+                  1396
+                ],
+                "Text": "\u3054",
+                "Confidence": 0.622
+              },
+              {
+                "BoundingBox": [
+                  323,
+                  1363,
+                  343,
+                  1365,
+                  338,
+                  1399,
+                  318,
+                  1398
+                ],
+                "Text": "\u56DE",
+                "Confidence": 0.991
+              },
+              {
+                "BoundingBox": [
+                  345,
+                  1365,
+                  365,
+                  1366,
+                  362,
+                  1400,
+                  341,
+                  1400
+                ],
+                "Text": "\u7B54",
+                "Confidence": 0.951
+              },
+              {
+                "BoundingBox": [
+                  368,
+                  1366,
+                  388,
+                  1366,
+                  385,
+                  1401,
+                  364,
+                  1400
+                ],
+                "Text": "\u8005",
+                "Confidence": 0.992
+              },
+              {
+                "BoundingBox": [
+                  390,
+                  1367,
+                  407,
+                  1366,
+                  405,
+                  1401,
+                  387,
+                  1401
+                ],
+                "Text": "\u5168",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  408,
+                  1366,
+                  428,
+                  1366,
+                  426,
+                  1400,
+                  406,
+                  1401
+                ],
+                "Text": "\u54E1",
+                "Confidence": 0.808
+              },
+              {
+                "BoundingBox": [
+                  430,
+                  1366,
+                  450,
+                  1365,
+                  449,
+                  1399,
+                  429,
+                  1400
+                ],
+                "Text": "\u306B",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  462,
+                  1364,
+                  482,
+                  1362,
+                  482,
+                  1396,
+                  461,
+                  1398
+                ],
+                "Text": "\u30B9",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  488,
+                  1361,
+                  508,
+                  1359,
+                  509,
+                  1392,
+                  489,
+                  1395
+                ],
+                "Text": "\u30DE",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  515,
+                  1358,
+                  535,
+                  1355,
+                  537,
+                  1388,
+                  516,
+                  1391
+                ],
+                "Text": "\u30DB",
+                "Confidence": 0.992
+              },
+              {
+                "BoundingBox": [
+                  537,
+                  1354,
+                  557,
+                  1350,
+                  559,
+                  1384,
+                  539,
+                  1388
+                ],
+                "Text": "\u3067",
+                "Confidence": 0.998
+              },
+              {
+                "BoundingBox": [
+                  564,
+                  1349,
+                  583,
+                  1345,
+                  587,
+                  1379,
+                  566,
+                  1383
+                ],
+                "Text": "\u4F7F",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  586,
+                  1344,
+                  605,
+                  1339,
+                  609,
+                  1373,
+                  589,
+                  1378
+                ],
+                "Text": "\u3048",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  612,
+                  1338,
+                  631,
+                  1332,
+                  636,
+                  1366,
+                  616,
+                  1371
+                ],
+                "Text": "\u308B",
+                "Confidence": 0.998
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              292,
+              1395,
+              593,
+              1376,
+              599,
+              1448,
+              293,
+              1465
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "50\u5186\u30AF\u30FC\u30DD\u30F3",
+            "Words": [
+              {
+                "BoundingBox": [
+                  296,
+                  1395,
+                  349,
+                  1397,
+                  347,
+                  1465,
+                  293,
+                  1465
+                ],
+                "Text": "50",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  350,
+                  1397,
+                  389,
+                  1398,
+                  389,
+                  1465,
+                  349,
+                  1465
+                ],
+                "Text": "\u5186",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  393,
+                  1398,
+                  432,
+                  1396,
+                  433,
+                  1462,
+                  393,
+                  1465
+                ],
+                "Text": "\u30AF",
+                "Confidence": 0.991
+              },
+              {
+                "BoundingBox": [
+                  436,
+                  1396,
+                  475,
+                  1393,
+                  478,
+                  1458,
+                  438,
+                  1462
+                ],
+                "Text": "\u30FC",
+                "Confidence": 0.981
+              },
+              {
+                "BoundingBox": [
+                  497,
+                  1392,
+                  535,
+                  1386,
+                  539,
+                  1449,
+                  500,
+                  1456
+                ],
+                "Text": "\u30DD",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  539,
+                  1385,
+                  578,
+                  1379,
+                  583,
+                  1440,
+                  544,
+                  1448
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.996
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              645,
+              1397,
+              646,
+              1431,
+              625,
+              1432,
+              622,
+              1399
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "DM",
+            "Words": [
+              {
+                "BoundingBox": [
+                  645,
+                  1397,
+                  647,
+                  1423,
+                  624,
+                  1425,
+                  622,
+                  1399
+                ],
+                "Text": "DM",
+                "Confidence": 0.297
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              294,
+              1470,
+              382,
+              1483,
+              378,
+              1511,
+              291,
+              1501
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u30E6\u30A2\u30EC\u30DD",
+            "Words": [
+              {
+                "BoundingBox": [
+                  295,
+                  1470,
+                  314,
+                  1472,
+                  309,
+                  1503,
+                  291,
+                  1500
+                ],
+                "Text": "\u30E6",
+                "Confidence": 0.989
+              },
+              {
+                "BoundingBox": [
+                  320,
+                  1473,
+                  336,
+                  1475,
+                  332,
+                  1506,
+                  316,
+                  1503
+                ],
+                "Text": "\u30A2",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  336,
+                  1475,
+                  354,
+                  1477,
+                  350,
+                  1508,
+                  332,
+                  1506
+                ],
+                "Text": "\u30EC",
+                "Confidence": 0.997
+              },
+              {
+                "BoundingBox": [
+                  365,
+                  1479,
+                  380,
+                  1481,
+                  376,
+                  1511,
+                  361,
+                  1509
+                ],
+                "Text": "\u30DD",
+                "Confidence": 0.412
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              588,
+              1496,
+              583,
+              1457,
+              641,
+              1450,
+              644,
+              1488
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "handwriting",
+                "Confidence": 0.474
+              }
+            },
+            "Text": "18",
+            "Words": [
+              {
+                "BoundingBox": [
+                  588,
+                  1496,
+                  583,
+                  1457,
+                  628,
+                  1451,
+                  633,
+                  1490
+                ],
+                "Text": "18",
+                "Confidence": 0.765
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              323,
+              1523,
+              659,
+              1490,
+              663,
+              1521,
+              323,
+              1548
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "www.survey.solyu.co.jp",
+            "Words": [
+              {
+                "BoundingBox": [
+                  324,
+                  1523,
+                  617,
+                  1494,
+                  619,
+                  1523,
+                  323,
+                  1548
+                ],
+                "Text": "www.survey.solyu.co.jp",
+                "Confidence": 0.31
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              277,
+              1546,
+              661,
+              1523,
+              664,
+              1562,
+              278,
+              1577
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "\u30D8\u30A2\u30F3\u30B1\u30FC\u30C8\u306E\u3067\u3042\u307E\u306B\u306F\u3001\u3054\u8CFC\u5165\u65E5\u3092\u304D\u304415\u65E5\u4EE5\u5185\u306E",
+            "Words": [
+              {
+                "BoundingBox": [
+                  278,
+                  1547,
+                  289,
+                  1548,
+                  288,
+                  1571,
+                  278,
+                  1571
+                ],
+                "Text": "\u30D8",
+                "Confidence": 0.086
+              },
+              {
+                "BoundingBox": [
+                  289,
+                  1548,
+                  302,
+                  1549,
+                  301,
+                  1572,
+                  289,
+                  1571
+                ],
+                "Text": "\u30A2",
+                "Confidence": 0.959
+              },
+              {
+                "BoundingBox": [
+                  302,
+                  1549,
+                  318,
+                  1550,
+                  318,
+                  1574,
+                  302,
+                  1572
+                ],
+                "Text": "\u30F3",
+                "Confidence": 0.993
+              },
+              {
+                "BoundingBox": [
+                  319,
+                  1550,
+                  331,
+                  1551,
+                  331,
+                  1575,
+                  318,
+                  1574
+                ],
+                "Text": "\u30B1",
+                "Confidence": 0.964
+              },
+              {
+                "BoundingBox": [
+                  332,
+                  1551,
+                  345,
+                  1551,
+                  344,
+                  1575,
+                  332,
+                  1575
+                ],
+                "Text": "\u30FC",
+                "Confidence": 0.992
+              },
+              {
+                "BoundingBox": [
+                  345,
+                  1551,
+                  358,
+                  1551,
+                  358,
+                  1576,
+                  345,
+                  1575
+                ],
+                "Text": "\u30C8",
+                "Confidence": 0.915
+              },
+              {
+                "BoundingBox": [
+                  358,
+                  1551,
+                  371,
+                  1551,
+                  371,
+                  1576,
+                  358,
+                  1576
+                ],
+                "Text": "\u306E",
+                "Confidence": 0.973
+              },
+              {
+                "BoundingBox": [
+                  371,
+                  1551,
+                  384,
+                  1552,
+                  384,
+                  1576,
+                  371,
+                  1576
+                ],
+                "Text": "\u3067",
+                "Confidence": 0.856
+              },
+              {
+                "BoundingBox": [
+                  384,
+                  1552,
+                  399,
+                  1552,
+                  400,
+                  1576,
+                  385,
+                  1576
+                ],
+                "Text": "\u3042",
+                "Confidence": 0.111
+              },
+              {
+                "BoundingBox": [
+                  404,
+                  1551,
+                  417,
+                  1551,
+                  417,
+                  1576,
+                  405,
+                  1576
+                ],
+                "Text": "\u307E",
+                "Confidence": 0.14
+              },
+              {
+                "BoundingBox": [
+                  417,
+                  1551,
+                  432,
+                  1551,
+                  433,
+                  1576,
+                  418,
+                  1576
+                ],
+                "Text": "\u306B",
+                "Confidence": 0.949
+              },
+              {
+                "BoundingBox": [
+                  434,
+                  1551,
+                  443,
+                  1551,
+                  444,
+                  1576,
+                  434,
+                  1576
+                ],
+                "Text": "\u306F",
+                "Confidence": 0.202
+              },
+              {
+                "BoundingBox": [
+                  444,
+                  1551,
+                  453,
+                  1550,
+                  454,
+                  1575,
+                  444,
+                  1576
+                ],
+                "Text": "\u3001",
+                "Confidence": 0.877
+              },
+              {
+                "BoundingBox": [
+                  454,
+                  1550,
+                  468,
+                  1549,
+                  469,
+                  1575,
+                  454,
+                  1575
+                ],
+                "Text": "\u3054",
+                "Confidence": 0.906
+              },
+              {
+                "BoundingBox": [
+                  470,
+                  1549,
+                  485,
+                  1548,
+                  486,
+                  1574,
+                  471,
+                  1574
+                ],
+                "Text": "\u8CFC",
+                "Confidence": 0.058
+              },
+              {
+                "BoundingBox": [
+                  487,
+                  1548,
+                  501,
+                  1547,
+                  502,
+                  1573,
+                  487,
+                  1574
+                ],
+                "Text": "\u5165",
+                "Confidence": 0.974
+              },
+              {
+                "BoundingBox": [
+                  503,
+                  1547,
+                  518,
+                  1545,
+                  519,
+                  1571,
+                  504,
+                  1572
+                ],
+                "Text": "\u65E5",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  523,
+                  1545,
+                  537,
+                  1543,
+                  538,
+                  1569,
+                  524,
+                  1571
+                ],
+                "Text": "\u3092",
+                "Confidence": 0.993
+              },
+              {
+                "BoundingBox": [
+                  539,
+                  1543,
+                  552,
+                  1542,
+                  553,
+                  1568,
+                  540,
+                  1569
+                ],
+                "Text": "\u304D",
+                "Confidence": 0.776
+              },
+              {
+                "BoundingBox": [
+                  552,
+                  1542,
+                  567,
+                  1540,
+                  568,
+                  1566,
+                  553,
+                  1568
+                ],
+                "Text": "\u3044",
+                "Confidence": 0.265
+              },
+              {
+                "BoundingBox": [
+                  568,
+                  1539,
+                  591,
+                  1536,
+                  592,
+                  1562,
+                  570,
+                  1565
+                ],
+                "Text": "15",
+                "Confidence": 0.995
+              },
+              {
+                "BoundingBox": [
+                  591,
+                  1536,
+                  606,
+                  1534,
+                  607,
+                  1560,
+                  593,
+                  1562
+                ],
+                "Text": "\u65E5",
+                "Confidence": 0.992
+              },
+              {
+                "BoundingBox": [
+                  608,
+                  1534,
+                  622,
+                  1531,
+                  624,
+                  1557,
+                  609,
+                  1560
+                ],
+                "Text": "\u4EE5",
+                "Confidence": 0.896
+              },
+              {
+                "BoundingBox": [
+                  627,
+                  1530,
+                  642,
+                  1527,
+                  643,
+                  1553,
+                  629,
+                  1556
+                ],
+                "Text": "\u5185",
+                "Confidence": 0.815
+              },
+              {
+                "BoundingBox": [
+                  643,
+                  1527,
+                  658,
+                  1524,
+                  659,
+                  1550,
+                  645,
+                  1553
+                ],
+                "Text": "\u306E",
+                "Confidence": 0.992
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              290,
+              1568,
+              423,
+              1583,
+              422,
+              1609,
+              290,
+              1593
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.945
+              }
+            },
+            "Text": "\u30EC\u30B7\u30FC\u30C8\u304B\u306B\u5897\u3067\u3059",
+            "Words": [
+              {
+                "BoundingBox": [
+                  290,
+                  1568,
+                  303,
+                  1569,
+                  303,
+                  1595,
+                  291,
+                  1594
+                ],
+                "Text": "\u30EC",
+                "Confidence": 0.987
+              },
+              {
+                "BoundingBox": [
+                  304,
+                  1570,
+                  317,
+                  1571,
+                  317,
+                  1596,
+                  305,
+                  1595
+                ],
+                "Text": "\u30B7",
+                "Confidence": 0.424
+              },
+              {
+                "BoundingBox": [
+                  317,
+                  1571,
+                  330,
+                  1572,
+                  330,
+                  1597,
+                  318,
+                  1596
+                ],
+                "Text": "\u30FC",
+                "Confidence": 0.969
+              },
+              {
+                "BoundingBox": [
+                  330,
+                  1572,
+                  343,
+                  1574,
+                  343,
+                  1598,
+                  331,
+                  1597
+                ],
+                "Text": "\u30C8",
+                "Confidence": 0.944
+              },
+              {
+                "BoundingBox": [
+                  343,
+                  1574,
+                  356,
+                  1575,
+                  356,
+                  1600,
+                  343,
+                  1599
+                ],
+                "Text": "\u304B",
+                "Confidence": 0.566
+              },
+              {
+                "BoundingBox": [
+                  356,
+                  1575,
+                  371,
+                  1577,
+                  371,
+                  1602,
+                  356,
+                  1600
+                ],
+                "Text": "\u306B",
+                "Confidence": 0.438
+              },
+              {
+                "BoundingBox": [
+                  372,
+                  1577,
+                  385,
+                  1579,
+                  385,
+                  1603,
+                  372,
+                  1602
+                ],
+                "Text": "\u5897",
+                "Confidence": 0.037
+              },
+              {
+                "BoundingBox": [
+                  385,
+                  1579,
+                  400,
+                  1581,
+                  400,
+                  1605,
+                  385,
+                  1603
+                ],
+                "Text": "\u3067",
+                "Confidence": 0.996
+              },
+              {
+                "BoundingBox": [
+                  401,
+                  1581,
+                  416,
+                  1583,
+                  416,
+                  1608,
+                  401,
+                  1606
+                ],
+                "Text": "\u3059",
+                "Confidence": 0.946
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              290,
+              1594,
+              682,
+              1566,
+              685,
+              1605,
+              291,
+              1623
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "10\u3044\u308B\u306E~\u3067\u306E\u6211\u7121\u306F\u3001\u304A\u5BA2\u3055\u307E\u306E\u3054\u8CA0\u62C5\u3068\u306A\u308A\u307E\u3059\u3002",
+            "Words": [
+              {
+                "BoundingBox": [
+                  293,
+                  1595,
+                  320,
+                  1596,
+                  318,
+                  1620,
+                  291,
+                  1619
+                ],
+                "Text": "10",
+                "Confidence": 0.16
+              },
+              {
+                "BoundingBox": [
+                  320,
+                  1596,
+                  337,
+                  1597,
+                  335,
+                  1621,
+                  318,
+                  1620
+                ],
+                "Text": "\u3044",
+                "Confidence": 0.794
+              },
+              {
+                "BoundingBox": [
+                  337,
+                  1597,
+                  350,
+                  1597,
+                  348,
+                  1622,
+                  335,
+                  1621
+                ],
+                "Text": "\u308B",
+                "Confidence": 0.622
+              },
+              {
+                "BoundingBox": [
+                  350,
+                  1597,
+                  363,
+                  1597,
+                  362,
+                  1622,
+                  349,
+                  1622
+                ],
+                "Text": "\u306E",
+                "Confidence": 0.709
+              },
+              {
+                "BoundingBox": [
+                  364,
+                  1597,
+                  377,
+                  1598,
+                  375,
+                  1623,
+                  362,
+                  1622
+                ],
+                "Text": "~",
+                "Confidence": 0.93
+              },
+              {
+                "BoundingBox": [
+                  377,
+                  1598,
+                  392,
+                  1598,
+                  391,
+                  1623,
+                  376,
+                  1623
+                ],
+                "Text": "\u3067",
+                "Confidence": 0.23
+              },
+              {
+                "BoundingBox": [
+                  394,
+                  1598,
+                  407,
+                  1598,
+                  406,
+                  1623,
+                  393,
+                  1623
+                ],
+                "Text": "\u306E",
+                "Confidence": 0.409
+              },
+              {
+                "BoundingBox": [
+                  408,
+                  1598,
+                  423,
+                  1597,
+                  422,
+                  1623,
+                  406,
+                  1623
+                ],
+                "Text": "\u6211",
+                "Confidence": 0.652
+              },
+              {
+                "BoundingBox": [
+                  428,
+                  1597,
+                  441,
+                  1597,
+                  440,
+                  1622,
+                  427,
+                  1622
+                ],
+                "Text": "\u7121",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  441,
+                  1597,
+                  451,
+                  1596,
+                  450,
+                  1622,
+                  440,
+                  1622
+                ],
+                "Text": "\u306F",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  451,
+                  1596,
+                  464,
+                  1596,
+                  464,
+                  1621,
+                  451,
+                  1622
+                ],
+                "Text": "\u3001",
+                "Confidence": 0.952
+              },
+              {
+                "BoundingBox": [
+                  465,
+                  1596,
+                  480,
+                  1594,
+                  479,
+                  1620,
+                  464,
+                  1621
+                ],
+                "Text": "\u304A",
+                "Confidence": 0.952
+              },
+              {
+                "BoundingBox": [
+                  481,
+                  1594,
+                  496,
+                  1593,
+                  496,
+                  1619,
+                  481,
+                  1620
+                ],
+                "Text": "\u5BA2",
+                "Confidence": 0.952
+              },
+              {
+                "BoundingBox": [
+                  498,
+                  1593,
+                  513,
+                  1592,
+                  513,
+                  1618,
+                  498,
+                  1619
+                ],
+                "Text": "\u3055",
+                "Confidence": 0.952
+              },
+              {
+                "BoundingBox": [
+                  515,
+                  1592,
+                  528,
+                  1590,
+                  528,
+                  1617,
+                  515,
+                  1618
+                ],
+                "Text": "\u307E",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  528,
+                  1590,
+                  543,
+                  1589,
+                  544,
+                  1615,
+                  529,
+                  1617
+                ],
+                "Text": "\u306E",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  545,
+                  1589,
+                  560,
+                  1587,
+                  561,
+                  1613,
+                  545,
+                  1615
+                ],
+                "Text": "\u3054",
+                "Confidence": 0.941
+              },
+              {
+                "BoundingBox": [
+                  565,
+                  1586,
+                  580,
+                  1584,
+                  581,
+                  1610,
+                  566,
+                  1612
+                ],
+                "Text": "\u8CA0",
+                "Confidence": 0.94
+              },
+              {
+                "BoundingBox": [
+                  582,
+                  1584,
+                  597,
+                  1582,
+                  598,
+                  1608,
+                  583,
+                  1610
+                ],
+                "Text": "\u62C5",
+                "Confidence": 0.779
+              },
+              {
+                "BoundingBox": [
+                  598,
+                  1581,
+                  613,
+                  1579,
+                  614,
+                  1605,
+                  599,
+                  1608
+                ],
+                "Text": "\u3068",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  615,
+                  1579,
+                  628,
+                  1577,
+                  629,
+                  1603,
+                  616,
+                  1605
+                ],
+                "Text": "\u306A",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  628,
+                  1577,
+                  643,
+                  1574,
+                  645,
+                  1600,
+                  630,
+                  1603
+                ],
+                "Text": "\u308A",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  645,
+                  1574,
+                  659,
+                  1571,
+                  661,
+                  1597,
+                  646,
+                  1600
+                ],
+                "Text": "\u307E",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  661,
+                  1571,
+                  674,
+                  1568,
+                  676,
+                  1594,
+                  663,
+                  1597
+                ],
+                "Text": "\u3059",
+                "Confidence": 1
+              },
+              {
+                "BoundingBox": [
+                  674,
+                  1568,
+                  680,
+                  1567,
+                  682,
+                  1593,
+                  676,
+                  1594
+                ],
+                "Text": "\u3002",
+                "Confidence": 1
+              }
+            ]
+          },
+          {
+            "Language": null,
+            "BoundingBox": [
+              266,
+              1621,
+              644,
+              1606,
+              646,
+              1655,
+              267,
+              1666
+            ],
+            "Appearance": {
+              "Style": {
+                "Name": "other",
+                "Confidence": 0.972
+              }
+            },
+            "Text": "TC# 7534 3330 0432 5095 4549",
+            "Words": [
+              {
+                "BoundingBox": [
+                  270,
+                  1622,
+                  314,
+                  1624,
+                  311,
+                  1663,
+                  267,
+                  1660
+                ],
+                "Text": "TC#",
+                "Confidence": 0.916
+              },
+              {
+                "BoundingBox": [
+                  316,
+                  1625,
+                  374,
+                  1626,
+                  373,
+                  1666,
+                  314,
+                  1664
+                ],
+                "Text": "7534",
+                "Confidence": 0.988
+              },
+              {
+                "BoundingBox": [
+                  377,
+                  1626,
+                  435,
+                  1626,
+                  435,
+                  1666,
+                  376,
+                  1666
+                ],
+                "Text": "3330",
+                "Confidence": 0.891
+              },
+              {
+                "BoundingBox": [
+                  437,
+                  1626,
+                  500,
+                  1623,
+                  501,
+                  1662,
+                  437,
+                  1666
+                ],
+                "Text": "0432",
+                "Confidence": 0.98
+              },
+              {
+                "BoundingBox": [
+                  503,
+                  1622,
+                  570,
+                  1616,
+                  573,
+                  1654,
+                  504,
+                  1662
+                ],
+                "Text": "5095",
+                "Confidence": 0.99
+              },
+              {
+                "BoundingBox": [
+                  578,
+                  1615,
+                  640,
+                  1607,
+                  644,
+                  1641,
+                  581,
+                  1652
+                ],
+                "Text": "4549",
+                "Confidence": 0.993
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

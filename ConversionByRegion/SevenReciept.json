@@ -1,0 +1,1943 @@
+{
+    "Status": 3,
+    "CreatedDateTime": "2023-07-18T05:14:52Z",
+    "LastUpdatedDateTime": "2023-07-18T05:14:53Z",
+    "AnalyzeResult": {
+        "Version": "3.2.0",
+        "ModelVersion": "2022-04-30",
+        "ReadResults": [
+            {
+                "Page": 1,
+                "Language": null,
+                "Angle": -1.1642,
+                "Width": 960,
+                "Height": 1707,
+                "Unit": 0,
+                "Lines": [
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            585,
+                            325,
+                            744,
+                            313,
+                            746,
+                            358,
+                            586,
+                            368
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "handwriting",
+                                "Confidence": 1
+                            }
+                        },
+                        "Text": "25475",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    586,
+                                    327,
+                                    731,
+                                    315,
+                                    732,
+                                    361,
+                                    587,
+                                    368
+                                ],
+                                "Text": "25475",
+                                "Confidence": 0.815
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            178,
+                            346,
+                            732,
+                            359,
+                            731,
+                            435,
+                            176,
+                            427
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u3076\u30BB\u30D6\u30F3-\u30A4\u30EC\u30D6\u30F3",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    187,
+                                    347,
+                                    228,
+                                    351,
+                                    221,
+                                    424,
+                                    179,
+                                    421
+                                ],
+                                "Text": "\u3076",
+                                "Confidence": 0.114
+                            },
+                            {
+                                "BoundingBox": [
+                                    287,
+                                    357,
+                                    328,
+                                    360,
+                                    322,
+                                    430,
+                                    281,
+                                    428
+                                ],
+                                "Text": "\u30BB",
+                                "Confidence": 0.992
+                            },
+                            {
+                                "BoundingBox": [
+                                    351,
+                                    362,
+                                    392,
+                                    364,
+                                    387,
+                                    433,
+                                    345,
+                                    431
+                                ],
+                                "Text": "\u30D6",
+                                "Confidence": 0.994
+                            },
+                            {
+                                "BoundingBox": [
+                                    424,
+                                    365,
+                                    465,
+                                    367,
+                                    461,
+                                    435,
+                                    420,
+                                    434
+                                ],
+                                "Text": "\u30F3",
+                                "Confidence": 0.988
+                            },
+                            {
+                                "BoundingBox": [
+                                    469,
+                                    367,
+                                    510,
+                                    368,
+                                    508,
+                                    435,
+                                    466,
+                                    435
+                                ],
+                                "Text": "-",
+                                "Confidence": 0.04
+                            },
+                            {
+                                "BoundingBox": [
+                                    515,
+                                    368,
+                                    556,
+                                    368,
+                                    554,
+                                    435,
+                                    512,
+                                    435
+                                ],
+                                "Text": "\u30A4",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    560,
+                                    368,
+                                    601,
+                                    368,
+                                    600,
+                                    435,
+                                    559,
+                                    435
+                                ],
+                                "Text": "\u30EC",
+                                "Confidence": 0.992
+                            },
+                            {
+                                "BoundingBox": [
+                                    615,
+                                    368,
+                                    656,
+                                    367,
+                                    656,
+                                    434,
+                                    614,
+                                    435
+                                ],
+                                "Text": "\u30D6",
+                                "Confidence": 0.991
+                            },
+                            {
+                                "BoundingBox": [
+                                    670,
+                                    366,
+                                    711,
+                                    364,
+                                    712,
+                                    432,
+                                    670,
+                                    433
+                                ],
+                                "Text": "\u30F3",
+                                "Confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            247,
+                            433,
+                            602,
+                            436,
+                            602,
+                            473,
+                            246,
+                            471
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u54C1\u5DDD\u99C5\u524D\u5E97",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    251,
+                                    434,
+                                    273,
+                                    434,
+                                    270,
+                                    471,
+                                    248,
+                                    470
+                                ],
+                                "Text": "\u54C1",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    320,
+                                    434,
+                                    342,
+                                    434,
+                                    339,
+                                    472,
+                                    317,
+                                    472
+                                ],
+                                "Text": "\u5DDD",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    404,
+                                    435,
+                                    426,
+                                    435,
+                                    423,
+                                    473,
+                                    401,
+                                    473
+                                ],
+                                "Text": "\u99C5",
+                                "Confidence": 0.994
+                            },
+                            {
+                                "BoundingBox": [
+                                    487,
+                                    436,
+                                    509,
+                                    436,
+                                    507,
+                                    473,
+                                    485,
+                                    473
+                                ],
+                                "Text": "\u524D",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    561,
+                                    437,
+                                    583,
+                                    437,
+                                    581,
+                                    473,
+                                    559,
+                                    473
+                                ],
+                                "Text": "\u5E97",
+                                "Confidence": 0.997
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            166,
+                            465,
+                            674,
+                            470,
+                            674,
+                            517,
+                            166,
+                            513
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u6771\u4EAC\u90FD\u6E2F\u533A\u9AD8\u8F2A3-25-20",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    176,
+                                    466,
+                                    201,
+                                    467,
+                                    199,
+                                    509,
+                                    174,
+                                    508
+                                ],
+                                "Text": "\u6771",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    215,
+                                    467,
+                                    247,
+                                    468,
+                                    245,
+                                    512,
+                                    214,
+                                    510
+                                ],
+                                "Text": "\u4EAC",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    255,
+                                    468,
+                                    281,
+                                    469,
+                                    279,
+                                    513,
+                                    253,
+                                    512
+                                ],
+                                "Text": "\u90FD",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    289,
+                                    470,
+                                    315,
+                                    470,
+                                    313,
+                                    514,
+                                    288,
+                                    513
+                                ],
+                                "Text": "\u6E2F",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    329,
+                                    471,
+                                    355,
+                                    471,
+                                    353,
+                                    515,
+                                    328,
+                                    515
+                                ],
+                                "Text": "\u533A",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    369,
+                                    471,
+                                    394,
+                                    472,
+                                    393,
+                                    516,
+                                    367,
+                                    516
+                                ],
+                                "Text": "\u9AD8",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    403,
+                                    472,
+                                    428,
+                                    472,
+                                    427,
+                                    516,
+                                    402,
+                                    516
+                                ],
+                                "Text": "\u8F2A",
+                                "Confidence": 0.984
+                            },
+                            {
+                                "BoundingBox": [
+                                    431,
+                                    472,
+                                    673,
+                                    471,
+                                    673,
+                                    512,
+                                    430,
+                                    516
+                                ],
+                                "Text": "3-25-20",
+                                "Confidence": 0.579
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            250,
+                            554,
+                            577,
+                            555,
+                            577,
+                            595,
+                            250,
+                            595
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u96FB\u8A71:03-3440-0404",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    258,
+                                    555,
+                                    281,
+                                    555,
+                                    280,
+                                    595,
+                                    257,
+                                    596
+                                ],
+                                "Text": "\u96FB",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    294,
+                                    555,
+                                    317,
+                                    555,
+                                    316,
+                                    595,
+                                    293,
+                                    595
+                                ],
+                                "Text": "\u8A71",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    324,
+                                    555,
+                                    573,
+                                    557,
+                                    573,
+                                    595,
+                                    324,
+                                    595
+                                ],
+                                "Text": ":03-3440-0404",
+                                "Confidence": 0.978
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            641,
+                            551,
+                            736,
+                            547,
+                            739,
+                            587,
+                            643,
+                            593
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u30EC\u30B8#5",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    641,
+                                    551,
+                                    658,
+                                    550,
+                                    660,
+                                    592,
+                                    643,
+                                    593
+                                ],
+                                "Text": "\u30EC",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    659,
+                                    550,
+                                    684,
+                                    549,
+                                    686,
+                                    591,
+                                    661,
+                                    592
+                                ],
+                                "Text": "\u30B8",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    698,
+                                    548,
+                                    736,
+                                    547,
+                                    738,
+                                    588,
+                                    700,
+                                    590
+                                ],
+                                "Text": "#5",
+                                "Confidence": 0.995
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            170,
+                            638,
+                            644,
+                            635,
+                            644,
+                            674,
+                            170,
+                            677
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "2023\u5E7407\u670805\u65E5(\u6C34) 16:46",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    171,
+                                    640,
+                                    247,
+                                    640,
+                                    247,
+                                    677,
+                                    171,
+                                    676
+                                ],
+                                "Text": "2023",
+                                "Confidence": 0.992
+                            },
+                            {
+                                "BoundingBox": [
+                                    259,
+                                    640,
+                                    278,
+                                    640,
+                                    278,
+                                    677,
+                                    260,
+                                    677
+                                ],
+                                "Text": "\u5E74",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    279,
+                                    640,
+                                    320,
+                                    640,
+                                    320,
+                                    677,
+                                    279,
+                                    677
+                                ],
+                                "Text": "07",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    332,
+                                    640,
+                                    354,
+                                    640,
+                                    354,
+                                    677,
+                                    332,
+                                    677
+                                ],
+                                "Text": "\u6708",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    356,
+                                    640,
+                                    397,
+                                    640,
+                                    398,
+                                    677,
+                                    357,
+                                    677
+                                ],
+                                "Text": "05",
+                                "Confidence": 0.993
+                            },
+                            {
+                                "BoundingBox": [
+                                    405,
+                                    640,
+                                    426,
+                                    640,
+                                    427,
+                                    677,
+                                    405,
+                                    677
+                                ],
+                                "Text": "\u65E5",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    429,
+                                    640,
+                                    451,
+                                    639,
+                                    451,
+                                    677,
+                                    429,
+                                    677
+                                ],
+                                "Text": "(",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    458,
+                                    639,
+                                    480,
+                                    639,
+                                    480,
+                                    676,
+                                    458,
+                                    677
+                                ],
+                                "Text": "\u6C34",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    482,
+                                    639,
+                                    504,
+                                    639,
+                                    504,
+                                    676,
+                                    483,
+                                    676
+                                ],
+                                "Text": ")",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    521,
+                                    638,
+                                    611,
+                                    636,
+                                    611,
+                                    674,
+                                    521,
+                                    676
+                                ],
+                                "Text": "16:46",
+                                "Confidence": 0.993
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            644,
+                            636,
+                            738,
+                            632,
+                            741,
+                            667,
+                            646,
+                            671
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u8CAC331",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    654,
+                                    635,
+                                    676,
+                                    634,
+                                    677,
+                                    670,
+                                    656,
+                                    671
+                                ],
+                                "Text": "\u8CAC",
+                                "Confidence": 0.994
+                            },
+                            {
+                                "BoundingBox": [
+                                    683,
+                                    633,
+                                    739,
+                                    632,
+                                    741,
+                                    667,
+                                    685,
+                                    669
+                                ],
+                                "Text": "331",
+                                "Confidence": 0.995
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            327,
+                            721,
+                            511,
+                            719,
+                            512,
+                            761,
+                            327,
+                            764
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u9818 \u53CE",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    335,
+                                    722,
+                                    366,
+                                    721,
+                                    366,
+                                    764,
+                                    335,
+                                    765
+                                ],
+                                "Text": "\u9818",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    441,
+                                    720,
+                                    467,
+                                    720,
+                                    468,
+                                    762,
+                                    442,
+                                    762
+                                ],
+                                "Text": "\u53CE",
+                                "Confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            541,
+                            724,
+                            611,
+                            723,
+                            612,
+                            752,
+                            541,
+                            752
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u66F8",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    553,
+                                    723,
+                                    571,
+                                    723,
+                                    571,
+                                    752,
+                                    554,
+                                    752
+                                ],
+                                "Text": "\u66F8",
+                                "Confidence": 0.977
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            175,
+                            808,
+                            545,
+                            803,
+                            546,
+                            837,
+                            175,
+                            843
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u30EC\u30BF\u30FC\u30D1\u30C3\u30AF\u30E9\u30A4\u30C8370 370\u5186",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    176,
+                                    810,
+                                    193,
+                                    810,
+                                    193,
+                                    843,
+                                    176,
+                                    843
+                                ],
+                                "Text": "\u30EC",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    195,
+                                    810,
+                                    212,
+                                    809,
+                                    213,
+                                    843,
+                                    195,
+                                    843
+                                ],
+                                "Text": "\u30BF",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    213,
+                                    809,
+                                    226,
+                                    809,
+                                    226,
+                                    843,
+                                    213,
+                                    843
+                                ],
+                                "Text": "\u30FC",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    227,
+                                    809,
+                                    247,
+                                    808,
+                                    247,
+                                    842,
+                                    227,
+                                    843
+                                ],
+                                "Text": "\u30D1",
+                                "Confidence": 0.978
+                            },
+                            {
+                                "BoundingBox": [
+                                    267,
+                                    808,
+                                    288,
+                                    807,
+                                    288,
+                                    842,
+                                    267,
+                                    842
+                                ],
+                                "Text": "\u30C3",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    290,
+                                    807,
+                                    307,
+                                    807,
+                                    308,
+                                    842,
+                                    290,
+                                    842
+                                ],
+                                "Text": "\u30AF",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    308,
+                                    807,
+                                    325,
+                                    806,
+                                    326,
+                                    842,
+                                    308,
+                                    842
+                                ],
+                                "Text": "\u30E9",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    326,
+                                    806,
+                                    343,
+                                    806,
+                                    344,
+                                    841,
+                                    326,
+                                    842
+                                ],
+                                "Text": "\u30A4",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    344,
+                                    806,
+                                    361,
+                                    806,
+                                    362,
+                                    841,
+                                    344,
+                                    841
+                                ],
+                                "Text": "\u30C8",
+                                "Confidence": 0.992
+                            },
+                            {
+                                "BoundingBox": [
+                                    362,
+                                    806,
+                                    414,
+                                    805,
+                                    415,
+                                    840,
+                                    362,
+                                    841
+                                ],
+                                "Text": "370",
+                                "Confidence": 0.993
+                            },
+                            {
+                                "BoundingBox": [
+                                    452,
+                                    804,
+                                    504,
+                                    803,
+                                    505,
+                                    838,
+                                    453,
+                                    839
+                                ],
+                                "Text": "370",
+                                "Confidence": 0.99
+                            },
+                            {
+                                "BoundingBox": [
+                                    511,
+                                    803,
+                                    531,
+                                    803,
+                                    532,
+                                    837,
+                                    512,
+                                    838
+                                ],
+                                "Text": "\u5186",
+                                "Confidence": 0.998
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            405,
+                            845,
+                            550,
+                            843,
+                            550,
+                            877,
+                            405,
+                            879
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "@370\u00D7 20",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    406,
+                                    846,
+                                    489,
+                                    845,
+                                    490,
+                                    879,
+                                    406,
+                                    879
+                                ],
+                                "Text": "@370\u00D7",
+                                "Confidence": 0.399
+                            },
+                            {
+                                "BoundingBox": [
+                                    509,
+                                    845,
+                                    547,
+                                    844,
+                                    548,
+                                    877,
+                                    510,
+                                    879
+                                ],
+                                "Text": "20",
+                                "Confidence": 0.995
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            639,
+                            839,
+                            767,
+                            834,
+                            768,
+                            870,
+                            639,
+                            876
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "7,400\u975E",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    639,
+                                    839,
+                                    725,
+                                    836,
+                                    726,
+                                    872,
+                                    639,
+                                    876
+                                ],
+                                "Text": "7,400",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    728,
+                                    836,
+                                    749,
+                                    835,
+                                    750,
+                                    872,
+                                    728,
+                                    872
+                                ],
+                                "Text": "\u975E",
+                                "Confidence": 0.992
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            182,
+                            938,
+                            457,
+                            927,
+                            458,
+                            964,
+                            182,
+                            977
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u5C0F \u8A08(\u975E\u8AB2\u7A0E)",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    184,
+                                    938,
+                                    203,
+                                    937,
+                                    202,
+                                    977,
+                                    183,
+                                    977
+                                ],
+                                "Text": "\u5C0F",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    267,
+                                    934,
+                                    290,
+                                    933,
+                                    289,
+                                    973,
+                                    266,
+                                    974
+                                ],
+                                "Text": "\u8A08",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    308,
+                                    932,
+                                    331,
+                                    931,
+                                    330,
+                                    971,
+                                    307,
+                                    972
+                                ],
+                                "Text": "(",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    339,
+                                    931,
+                                    362,
+                                    930,
+                                    361,
+                                    969,
+                                    338,
+                                    971
+                                ],
+                                "Text": "\u975E",
+                                "Confidence": 0.993
+                            },
+                            {
+                                "BoundingBox": [
+                                    385,
+                                    929,
+                                    408,
+                                    929,
+                                    407,
+                                    967,
+                                    384,
+                                    968
+                                ],
+                                "Text": "\u8AB2",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    420,
+                                    928,
+                                    440,
+                                    928,
+                                    440,
+                                    965,
+                                    420,
+                                    966
+                                ],
+                                "Text": "\u7A0E",
+                                "Confidence": 0.986
+                            },
+                            {
+                                "BoundingBox": [
+                                    441,
+                                    928,
+                                    455,
+                                    927,
+                                    455,
+                                    964,
+                                    441,
+                                    965
+                                ],
+                                "Text": ")",
+                                "Confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            624,
+                            922,
+                            735,
+                            921,
+                            735,
+                            954,
+                            624,
+                            955
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u00A57,400",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    625,
+                                    923,
+                                    731,
+                                    921,
+                                    731,
+                                    955,
+                                    625,
+                                    955
+                                ],
+                                "Text": "\u00A57,400",
+                                "Confidence": 0.994
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            185,
+                            979,
+                            367,
+                            973,
+                            368,
+                            1010,
+                            185,
+                            1019
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u5408 \u8A08",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    197,
+                                    979,
+                                    220,
+                                    979,
+                                    220,
+                                    1019,
+                                    197,
+                                    1020
+                                ],
+                                "Text": "\u5408",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    309,
+                                    976,
+                                    332,
+                                    975,
+                                    330,
+                                    1013,
+                                    308,
+                                    1014
+                                ],
+                                "Text": "\u8A08",
+                                "Confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            512,
+                            966,
+                            733,
+                            962,
+                            734,
+                            998,
+                            512,
+                            1001
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u00A57,400",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    514,
+                                    968,
+                                    715,
+                                    963,
+                                    716,
+                                    998,
+                                    513,
+                                    1001
+                                ],
+                                "Text": "\u00A57,400",
+                                "Confidence": 0.955
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            185,
+                            1021,
+                            371,
+                            1014,
+                            373,
+                            1057,
+                            185,
+                            1061
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u304A \u9810 \u308A",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    187,
+                                    1025,
+                                    210,
+                                    1023,
+                                    211,
+                                    1060,
+                                    187,
+                                    1059
+                                ],
+                                "Text": "\u304A",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    260,
+                                    1020,
+                                    290,
+                                    1018,
+                                    290,
+                                    1061,
+                                    261,
+                                    1061
+                                ],
+                                "Text": "\u9810",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    340,
+                                    1016,
+                                    364,
+                                    1015,
+                                    364,
+                                    1057,
+                                    340,
+                                    1059
+                                ],
+                                "Text": "\u308A",
+                                "Confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            481,
+                            1004,
+                            735,
+                            1000,
+                            736,
+                            1042,
+                            481,
+                            1045
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u00A510,400",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    483,
+                                    1004,
+                                    721,
+                                    1001,
+                                    723,
+                                    1041,
+                                    483,
+                                    1045
+                                ],
+                                "Text": "\u00A510,400",
+                                "Confidence": 0.941
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            186,
+                            1069,
+                            229,
+                            1066,
+                            227,
+                            1099,
+                            185,
+                            1102
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u304A",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    188,
+                                    1069,
+                                    207,
+                                    1067,
+                                    209,
+                                    1099,
+                                    190,
+                                    1101
+                                ],
+                                "Text": "\u304A",
+                                "Confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            335,
+                            1059,
+                            372,
+                            1057,
+                            376,
+                            1095,
+                            335,
+                            1098
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u91E3",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    339,
+                                    1059,
+                                    362,
+                                    1057,
+                                    364,
+                                    1095,
+                                    341,
+                                    1097
+                                ],
+                                "Text": "\u91E3",
+                                "Confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            518,
+                            1049,
+                            739,
+                            1044,
+                            740,
+                            1080,
+                            518,
+                            1084
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u00A53,000",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    520,
+                                    1050,
+                                    717,
+                                    1046,
+                                    719,
+                                    1081,
+                                    519,
+                                    1084
+                                ],
+                                "Text": "\u00A53,000",
+                                "Confidence": 0.991
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            185,
+                            1108,
+                            721,
+                            1087,
+                            723,
+                            1122,
+                            185,
+                            1147
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u304A\u8CB7\u4E0A\u660E\u7D30\u306F\u4E0A\u8A18\u306E\u3068\u304A\u308A\u3067\u3059\u3002",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    187,
+                                    1112,
+                                    209,
+                                    1110,
+                                    209,
+                                    1146,
+                                    187,
+                                    1147
+                                ],
+                                "Text": "\u304A",
+                                "Confidence": 0.998
+                            },
+                            {
+                                "BoundingBox": [
+                                    231,
+                                    1109,
+                                    253,
+                                    1107,
+                                    253,
+                                    1144,
+                                    231,
+                                    1145
+                                ],
+                                "Text": "\u8CB7",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    271,
+                                    1106,
+                                    293,
+                                    1105,
+                                    292,
+                                    1142,
+                                    270,
+                                    1143
+                                ],
+                                "Text": "\u4E0A",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    310,
+                                    1104,
+                                    332,
+                                    1103,
+                                    332,
+                                    1141,
+                                    310,
+                                    1142
+                                ],
+                                "Text": "\u660E",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    344,
+                                    1102,
+                                    366,
+                                    1101,
+                                    366,
+                                    1139,
+                                    344,
+                                    1140
+                                ],
+                                "Text": "\u7D30",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    373,
+                                    1100,
+                                    395,
+                                    1099,
+                                    396,
+                                    1138,
+                                    373,
+                                    1139
+                                ],
+                                "Text": "\u306F",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    422,
+                                    1098,
+                                    444,
+                                    1097,
+                                    445,
+                                    1135,
+                                    423,
+                                    1136
+                                ],
+                                "Text": "\u4E0A",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    462,
+                                    1096,
+                                    484,
+                                    1095,
+                                    484,
+                                    1134,
+                                    462,
+                                    1135
+                                ],
+                                "Text": "\u8A18",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    486,
+                                    1095,
+                                    508,
+                                    1094,
+                                    509,
+                                    1133,
+                                    486,
+                                    1134
+                                ],
+                                "Text": "\u306E",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    525,
+                                    1093,
+                                    547,
+                                    1092,
+                                    548,
+                                    1131,
+                                    526,
+                                    1132
+                                ],
+                                "Text": "\u3068",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    570,
+                                    1092,
+                                    592,
+                                    1091,
+                                    592,
+                                    1129,
+                                    570,
+                                    1130
+                                ],
+                                "Text": "\u304A",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    599,
+                                    1091,
+                                    621,
+                                    1090,
+                                    622,
+                                    1128,
+                                    600,
+                                    1129
+                                ],
+                                "Text": "\u308A",
+                                "Confidence": 0.997
+                            },
+                            {
+                                "BoundingBox": [
+                                    638,
+                                    1090,
+                                    665,
+                                    1089,
+                                    666,
+                                    1126,
+                                    639,
+                                    1127
+                                ],
+                                "Text": "\u3067",
+                                "Confidence": 0.995
+                            },
+                            {
+                                "BoundingBox": [
+                                    677,
+                                    1089,
+                                    700,
+                                    1088,
+                                    700,
+                                    1124,
+                                    678,
+                                    1125
+                                ],
+                                "Text": "\u3059",
+                                "Confidence": 0.998
+                            },
+                            {
+                                "BoundingBox": [
+                                    702,
+                                    1088,
+                                    720,
+                                    1088,
+                                    721,
+                                    1123,
+                                    703,
+                                    1124
+                                ],
+                                "Text": "\u3002",
+                                "Confidence": 0.995
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            186,
+                            1152,
+                            338,
+                            1144,
+                            341,
+                            1185,
+                            188,
+                            1191
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "\u4F1D\u7968\u756A\u53F7",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    193,
+                                    1155,
+                                    216,
+                                    1153,
+                                    218,
+                                    1190,
+                                    195,
+                                    1191
+                                ],
+                                "Text": "\u4F1D",
+                                "Confidence": 0.996
+                            },
+                            {
+                                "BoundingBox": [
+                                    234,
+                                    1152,
+                                    256,
+                                    1150,
+                                    258,
+                                    1189,
+                                    236,
+                                    1189
+                                ],
+                                "Text": "\u7968",
+                                "Confidence": 0.998
+                            },
+                            {
+                                "BoundingBox": [
+                                    274,
+                                    1149,
+                                    297,
+                                    1147,
+                                    299,
+                                    1187,
+                                    276,
+                                    1188
+                                ],
+                                "Text": "\u756A",
+                                "Confidence": 0.998
+                            },
+                            {
+                                "BoundingBox": [
+                                    315,
+                                    1146,
+                                    337,
+                                    1144,
+                                    339,
+                                    1186,
+                                    316,
+                                    1187
+                                ],
+                                "Text": "\u53F7",
+                                "Confidence": 0.996
+                            }
+                        ]
+                    },
+                    {
+                        "Language": null,
+                        "BoundingBox": [
+                            485,
+                            1137,
+                            781,
+                            1126,
+                            782,
+                            1162,
+                            486,
+                            1173
+                        ],
+                        "Appearance": {
+                            "Style": {
+                                "Name": "other",
+                                "Confidence": 0.972
+                            }
+                        },
+                        "Text": "230-705-536-5206",
+                        "Words": [
+                            {
+                                "BoundingBox": [
+                                    485,
+                                    1137,
+                                    775,
+                                    1126,
+                                    778,
+                                    1162,
+                                    487,
+                                    1173
+                                ],
+                                "Text": "230-705-536-5206",
+                                "Confidence": 0.987
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
