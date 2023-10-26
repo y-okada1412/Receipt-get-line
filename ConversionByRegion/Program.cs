@@ -98,8 +98,6 @@ namespace JSONReadingExample
                     double widthContent = Calcwidth(ReadResult.Lines[i]);
                     List<double> bbRe = RotateBb(ReadResult.Lines[i].BoundingBox, center.x, center.y, Centertheta);
 
-                    //次回この条件を変更する。現状うまく機能していない。
-                    // if (center.x > biggestCenter.x + biggestWidth * 0.15 && biggestWidth * 0.7 > widthContent)
                     if (center.x > biggestCenter.x )
                     {
                         bbRe = AddDiv(bbRe,div);
